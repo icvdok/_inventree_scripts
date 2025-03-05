@@ -23,7 +23,7 @@ if not token:
 api = InvenTreeAPI(url, token=token)
 
 # Read the CSV file
-csv_file = 'import_list.csv'
+csv_file = 'import.csv'
 df = pd.read_csv(csv_file)
 
 # Replace NaN values with empty strings or appropriate defaults
