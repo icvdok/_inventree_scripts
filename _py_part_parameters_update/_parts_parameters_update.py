@@ -109,9 +109,10 @@ def validate_csv_data():
     selection_list_map = get_selection_lists()
     if not selection_list_map:
         logging.error("Failed to retrieve selection lists. Aborting validation.")
-        return False
+        return False, ["Failed to retrieve selection lists."]
     
     validation_registry = {}
+    error_messages = []
     
     with open('parameters.csv', mode='r') as file:
         reader = csv.DictReader(file)
@@ -133,12 +134,14 @@ def validate_csv_data():
                         logging.info(f"check selection results= {check_selection}")
                         if not check_selection:
                             validation_registry[part_pk] = False
+                            error_messages.append(f"Part pk: {part_pk}, Parameter template: {parameter_template_name}, Value: {value} - Invalid selection list value.")
                     
                     if parameter_boolean == 'True':
                         boolean_check = validate_boolean_value(value)
                         logging.info(f"boolean check results= {boolean_check}")
                         if not boolean_check:
                             validation_registry[part_pk] = False
+                            error_messages.append(f"Part pk: {part_pk}, Parameter template: {parameter_template_name}, Value: {value} - Invalid boolean value.")
     
     all_valid = all(validation_registry.values())
     if all_valid:
@@ -146,7 +149,7 @@ def validate_csv_data():
     else:
         logging.error("Some data in the CSV file is invalid. Aborting update.")
     
-    return all_valid
+    return all_valid, error_messages
 #Option3
 
 def part_category_parameters_update():
@@ -167,20 +170,35 @@ def part_category_parameters_update():
                     parameter_template_pk = parameter_template_info[1]
                     selectionlist_pk = parameter_template_info[2]
                     
-                    endpoint = f"{url}part/parameter/"
-                    payload = {
-                        'part': part_pk,
-                        'template': parameter_template_pk,
-                        'data': value,
-                        'selectionlist': selectionlist_pk if selectionlist_pk != 'False' else None
-                    }
-                    response = requests.post(endpoint, headers=headers, json=payload)
+                    # Check if the parameter already exists for the part
+                    endpoint = f"{url}part/parameter/?part={part_pk}&template={parameter_template_pk}"
+                    response = requests.get(endpoint, headers=headers)
                     if response.status_code == 200:
-                        logging.info(f"Successfully updated part pk: {part_pk}, Parameter template: {parameter_template_name}, Value: {value}")
+                        existing_parameters = response.json()
+                        if existing_parameters:
+                            # Update the existing parameter
+                            parameter_pk = existing_parameters[0]['pk']
+                            endpoint = f"{url}part/parameter/{parameter_pk}/"
+                            payload = {
+                                'part': part_pk,
+                                'template': parameter_template_pk,
+                                'data': value,
+                                'selectionlist': selectionlist_pk if selectionlist_pk != 'False' else None
+                            }
+                            response = requests.put(endpoint, headers=headers, json=payload)
+                            if response.status_code == 200:
+                                logging.info(f"Successfully updated part pk: {part_pk}, Parameter template: {parameter_template_name}, Value: {value}")
+                            else:
+                                logging.error(f"Failed to update part pk: {part_pk}, Parameter template: {parameter_template_name}, Value: {value} - {response.status_code} - {response.text}")
+                        else:
+                            logging.error(f"No existing parameter found for part pk: {part_pk}, Parameter template: {parameter_template_name}. Skipping update.")
                     else:
-                        logging.error(f"Failed to update part pk: {part_pk}, Parameter template: {parameter_template_name}, Value: {value} - {response.status_code} - {response.text}")
+                        logging.error(f"Failed to retrieve existing parameters for part pk: {part_pk}, Parameter template: {parameter_template_name} - {response.status_code} - {response.text}")
 
 def main():
+    validation_result = None
+    error_messages = []
+
     while True:
         print("Select an option:")
         print("1. Extract parameter template file")
@@ -201,16 +219,21 @@ def main():
                 print("No parameters or parts found or failed to retrieve data.")
         
         elif choice == '2':
-            if validate_csv_data():
+            validation_result, error_messages = validate_csv_data()
+            if validation_result:
                 print("Validation successful. You can now proceed to update the parts.")
             else:
                 print("Validation failed. Please check the CSV file for errors.")
+                for error in error_messages:
+                    print(error)
         
         elif choice == '3':
-            if validate_csv_data():
+            if validation_result is None:
+                print("Please validate the CSV file first by selecting option 2.")
+            elif validation_result:
                 part_category_parameters_update()
             else:
-                print("Validation failed. Aborting update.")
+                print("Validation failed. Please re-execute option 2 after fixing the errors.")
         
         elif choice == '4':
             print("Exiting the script. Goodbye!")
