@@ -1,0 +1,2 @@
+part name,part pk,electronic_cap_capacitance%12%False%False,electronic_code%15%False%False,electronic_mounting%51%17%False,electronic_size%52%False%False,electronic_cap_type%50%16%False,electronic_voltage%16%False%False,electronic_cap_polarized%14%False%True,electronic_package%11%15%False,Part of Kit%22%False%True
+C_0.15uF_50V_cmsv_th,1420,0.15uF,sample code test,th,compact small,cmsv,50,FALSE,RAD,TRUE
