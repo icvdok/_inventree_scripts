@@ -1,0 +1,512 @@
+Item,PK,Category,Name,Description,Image
+0,164,01 - Commodore 1530 (C2N) Datasette,,/media/part_images/1920px-Commodore-Datasette-C2N-Mk1-Front.jpg
+1,162,01 - Commodore 64,,/media/part_images/IMG_20190529_175151.jpg
+2,147,01 - Commodore SX-64 Executive,Commodore SX-64 Executive,/media/part_images/home_sx64_ausgeklappt.jpg
+3,165,01 - PSU,PSU,/media/part_images/IMG_20190125_140730_psu_crop.jpg
+4,163,02 - PSU,PSU,/media/part_images/IMG_20190525_145221_crop.jpg
+5,676,0805 Blue LED,0805 SMD LED Ultra Bright Blue,/media/part_images/Screenshot_2025-01-11_091315.png
+6,494,10Pcs 20CM Test Hook Clip Logic Analyzer Cable Gripper Probe Wire Clamp Kit,,/media/part_images/Screenshot_2024-11-27_101702.png
+7,493,10Pcs SDK08 Test Clip SMD IC Test Hook Clips for Electrical Testing Ultra Small Clip Test Chip,,/media/part_images/Screenshot_2024-11-27_101244.png
+8,357,12W to 16W Ballast for Water UV Disinfection EB-G16,Coronwater Water Filter Ultravoilet Adaptor 12W to 16W Ballast for Water UV Disinfection EB-G16,/media/part_images/Screenshot_2024-05-26_084517.png
+9,442,1300-1600 MOUNTING KIT FOR FRONT BRAKE PADS,Accessori impianto frenante anteriore,/media/part_images/Screenshot_2024-09-15_082646.png
+10,674,1808 Fuse 10A,1808 SMD Fast Acting Fuse SMD Fuse 10A 125V MRL 04510,/media/part_images/Screenshot_2025-01-11_090914.png
+11,675,1808 Fuse 3A,1808 SMD Fast Acting Fuse SMD Fuse 3A 125V MRL 04510,/media/part_images/Screenshot_2025-01-11_091047.png
+12,673,1808 Fuse 5A,1808 SMD Fast Acting Fuse SMD Fuse 5A 125V MRL 04510,/media/part_images/Screenshot_2025-01-11_090742.png
+13,672,1808 Fuse Holder,1808 SMD Fast Acting Fuse SMD MRL 04510 Holder,/media/part_images/Screenshot_2025-01-11_090607.png
+14,349,20A/25mA Micro Current Transformer YHDC SCT-006 – 6mm Opening,20A/25mA Micro Current Transformer YHDC SCT-006 – 6mm Opening,/media/part_images/Screenshot_2024-05-20_072747.png
+15,667,2N7002,2N7002 N-channel SMD MOSFET,/media/part_images/Screenshot_2025-01-11_083733.png
+16,666,2N7002K,2N7002K N-channel SMD MOSFET,/media/part_images/Screenshot_2025-01-11_083725.png
+17,388,3030 Aluminum Profile with Slot Groove 8mm M5,3030 Aluminum Profile with Slot Groove 8mm M5,/media/part_images/Screenshot_2024-07-06_073353.png
+18,387,3030 Aluminum Profile with Slot Groove 8mm M6,3030 Aluminum Profile with Slot Groove 8mm M6,/media/part_images/Screenshot_2024-07-06_073353.png
+19,463,38x38 Camera module 5.0M GK7205V300 SONY IMX335,DIY HD H.265 5.0M GK7205V300 SONY IMX335 CMOS IVG-G5S G6S AI IP Camera Module IP HD Security Surveillance Camera,/media/part_images/Screenshot_2024-10-04_162855.png
+20,446,38x38 Camera Module 5MP,38x38 Camera Module 5MP,/media/part_images/Screenshot_2024-09-22_075232.png
+21,464,38x38 Camera module 5MP GK7205V300+IMX335 Wifi wireless,Camhi Camhipro Wifi wireless 5MP GK7205V300+IMX335 IP CAMERA motherboard SD card,/media/part_images/Screenshot_2024-10-04_163435.png
+22,456,38x38 Camera module 5Mp Sony Imx335 Hisilicon Hi3516Ev300 - 1.7mm,38x38 Camera module 5Mp Sony Imx335 Hisilicon Hi3516Ev300,/media/part_images/Screenshot_2024-10-04_140236.png
+23,447,38x38 Camera Module 6MP,38x38 Camera Module 6MP,/media/part_images/Screenshot_2024-09-22_075739.png
+24,292,3W DC12V 24V LED Light Flexible,3W DC12V 24V LED CNC Machine Tool Light Flexible L40cm gooseneck led Workshop Working Lamp Silver Black magnetic industrial lamp,/media/part_images/Screenshot_2024-01-13_094944.png
+25,669,3x3x1.5mm tacticle button switch,Tact Switch Micro Switch SMD 4pin Foot 3X3X1.5MM Key Light,/media/part_images/Screenshot_2025-01-11_085544.png
+26,670,3x6x2.5mm tacticle button switch red,Tact Switch Micro Switch 2Pin 3*6*2.5mm Red Button SMD,/media/part_images/Screenshot_2025-01-11_085713.png
+27,671,3x6x2.5mm tacticle button switch white,Tact Switch Micro Switch 2Pin 3*6*2.5mm White Button SMD,/media/part_images/Screenshot_2025-01-11_085832.png
+28,385,40 Series M5 T-Nut For 4040 Aluminum profile,40 Series M5 T-Nut For 4040 Aluminum profile,/media/part_images/Screenshot_2024-07-06_072736.png
+29,386,40 Series M6 T-Nut For 4040 Aluminum profile,40 Series M6 T-Nut For 4040 Aluminum profile,/media/part_images/Screenshot_2024-07-06_072736.png
+30,472,800pcs (2mm) Phillips Screws Assortment Kit M2*4/5/6/8/10/12/16/20mm - 800PCS KA,800pcs (2mm) Phillips Screws Assortment Kit M2*4/5/6/8/10/12/16/20mm - 800PCS KA,/media/part_images/Screenshot_2024-10-18_125816.png
+31,470,800pcs (2mm) Phillips Screws Assortment Kit M2*4/5/6/8/10/12/16/20mm - 800PCS KA Black,800pcs (2mm) Phillips Screws Assortment Kit M2*4/5/6/8/10/12/16/20mm - 800PCS KA Black,/media/part_images/Screenshot_2024-10-18_125728.png
+32,471,800pcs (2mm) Phillips Screws Assortment Kit M2*4/5/6/8/10/12/16/20mm - 800PCS PA,800pcs (2mm) Phillips Screws Assortment Kit M2*4/5/6/8/10/12/16/20mm - 800PCS PA,/media/part_images/Screenshot_2024-10-18_125901.png
+33,473,800pcs (2mm) Phillips Screws Assortment Kit M2*4/5/6/8/10/12/16/20mm - 800PCS PA Black,800pcs (2mm) Phillips Screws Assortment Kit M2*4/5/6/8/10/12/16/20mm - 800PCS PA Black,/media/part_images/Screenshot_2024-10-18_125925.png
+34,27,8bitdo arcade stick controller,8bitdo arcade stick controller,/media/part_images/183146668_xxl3.webp
+35,144,AC / DC 100V-240V Converter Adapter DC 5V 4A 4000mA Power Supply 5.5mm x 2.1-2.5mm,PSU (for MiSTer),/media/part_images/high-quality-AC-DC-100V-240V-Converter-Adapter-DC-5V-4A-4000mA-Power-Supply-_14YZtR4.jpg
+36,224,AC-DC 12V 5v 450mA 5W Power Supply,AC-DC 12V 5v 450mA 5W Power Supply,/media/part_images/H9da6f1ed5b304feeb73c40dd190000a9x.jpg
+37,221,AC-DC 220v to 5VDC step down module 700mA,,/media/part_images/dcdc5v_00.png
+38,98,AEG TIP WSP 125-900,Smerigliatrice angolare,/media/part_images/Screenshot_2023-04-16_091242.jpg
+39,423,ALUMINIUM WHEEL 7x15, ET 29 GTA REPLICA WITH CENTRE BADGE,Cerchi Lega Alfa,/media/part_images/Screenshot_2024-09-13_095426.png
+40,51,AMD Ryzen 7 5800X3D (AM4, 3.40 GHz, 8 -Core),CPU,/media/part_images/32get.png
+41,28,ANBERNIC RG552 Handheld Game Console,Retrogaming Console,/media/part_images/RG552_1.PNG
+42,40,Anova Precision® Cooker,Anova sous vide roner,/media/part_images/image_1571875853289555448.png
+43,36,Anycubic Photon Mono X 6K,Stampante a resina con ampio schermo da 9,25" e risoluzione 6K,/media/part_images/02get.jpg
+44,32,Anycubic Wash & Cure Plus,Per il post trattamento dei modelli in resina,/media/part_images/01get.jpg
+45,226,Aqara Light Sensor,Aqara Light Sensor T1 Brightness Sensor Zigbee 3.0 Automation Smart home Light Detector APP Control by aqara home / Homekit,/media/part_images/Web_capture_14-8-2023_125656_www.aliexpress.com.jpeg
+46,227,Aqara Motion Sensor,Aqara Motion Sensor Smart Human Body Sensor body Movement ZigBee Motion Wireless Connection Smart home for Xiaomi mijia Mi home,/media/part_images/Web_capture_14-8-2023_1329_www.aliexpress.com.jpeg
+47,504,ASUS TUF VG27AQ,ASUS TUF VG27AQ,/media/part_images/Screenshot_2024-12-10_133902.png
+48,257,BambuLab AMS,,/media/part_images/Web_capture_2-12-2023_7122_eu.store.bambulab.com.jpeg
+49,258,Bambu Lab AMS Hub,,/media/part_images/Web_capture_2-12-2023_71321_eu.store.bambulab.com.jpeg
+50,355,Bambu Lab PC Black Spool 1Kg,Bambu Lab PC Black Spool 1Kg,/media/part_images/Screenshot_2024-05-23_064552.png
+51,356,Bambu Lab PC Grey Spool 1Kg,Bambu Lab PC Grey Spool 1Kg,/media/part_images/Screenshot_2024-05-23_064814.png
+52,353,Bambu Lab PLA Basic Red Refill 1Kg,Bambu Lab PLA Basic Red Refill 1Kg,/media/part_images/Screenshot_2024-05-22_074920_vEemjT1.png
+53,354,Bambu Lab TPU 95A HF Grey Spool 1kg,Bambu Lab TPU 95A HF Grey 1kg,/media/part_images/Screenshot_2024-05-22_080731.png
+54,61,Bambu Lab X1 Carbon,3D Printer,/media/part_images/Screenshot_2023-04-15_082708.jpg
+55,73,Banco Fresa,DIY,None
+56,102,Bavaria BAG 115/1,Smerigliatrice angolare,/media/part_images/61rvnBpUBFL._AC_SL1500_.jpg
+57,100,Bernardo HBS 360,Sega nastro per legno,/media/part_images/get15.jpg
+58,130,Bernardo - RV 203 CF - 230 V,Aspiratrucioli radiale,/media/part_images/Bo_12-2018zGVLC6SFbH64b.jpg
+59,87,BIMax 152,Saldatrice,/media/part_images/get33.jpg
+60,95,Black&Decker CD701,Pistola termica,/media/part_images/get18.jpg
+61,79,Black&Decker ka2000,Levigatrice mouse,/media/part_images/get53.png
+62,81,Black&Decker ka900e-qs,Lima elettrica,/media/part_images/get35.png
+63,94,Black&Decker KS888E,Seghetto alternativo,/media/part_images/get13.jpg
+64,506,Block VC 10/1/9 transformer 1 x 230 V 1 x 9 V/AC 10 VA 1.11 A,Block VC 10/1/9 transformer 1 x 230 V 1 x 9 V/AC 10 VA 1.11 A,/media/part_images/Screenshot_2024-12-10_141338.png
+65,106,Bosch GAS 35 M AFC,Aspiratore,/media/part_images/get38.png
+66,104,Bosch GCM 12 GCL,Troncatrice Radiale,/media/part_images/get37.png
+67,105,Bosch GKS 85 G,Sega Circolare portatile,/media/part_images/get48.png
+68,108,Bosch GLL 3-80 C,Livella Laser,/media/part_images/get47.png
+69,109,Bosch GLM 120 C,Misuratore Laser (Telemetro),/media/part_images/get19.jpg
+70,64,Bosch GSA 12V-14,SEGA UNIVERSALE A BATTERIA,/media/part_images/Screenshot_2023-04-15_105358.jpg
+71,103,Bosch GSR 18V-21,Avvitatore 18v,/media/part_images/get16.jpg
+72,97,Bosch GWS750-115,Smerigliatrice angolare,/media/part_images/get49.png
+73,80,Bosch pbs75ae,Levigatrice a nastro,/media/part_images/get04.jpg
+74,76,Bosch pks40,Sega circolare portatile,/media/part_images/get50.png
+75,77,Bosch pof1200ae,Fresatrice verticale,/media/part_images/get07.jpg
+76,92,Bosch PSR 960,Avvitatore,/media/part_images/get12.jpg
+77,439,BRAKE CALIPER FRONT LEFT 1300-1600 (67-93),Pinza freno anteriore SX Alfa Romeo Giulia GT 1.3 Junior,/media/part_images/Screenshot_2024-09-15_082145.png
+78,440,BRAKE CALIPER FRONT RIGHT 1300-1600 (67-93),Pinza freno anteriore DX Alfa Romeo Giulia GT 1.3 Junior,/media/part_images/Screenshot_2024-09-15_082145_WF9Xssb.png
+79,443,BRAKE DISC FRONT 1300-1600 (only as a set),Dischi freno anteriori Alfa Romeo Giulia GT 1.3 Junior,/media/part_images/Screenshot_2024-09-15_082910.png
+80,441,BRAKE PADS FERODO 1300-1600 front,Pastiglie freno anteriori Giulia GT Jiunio,/media/part_images/Screenshot_2024-09-15_082426.png
+81,366,Brass G1/2  Female-Female Thread Connector Elbow Copper,Brass G1/2  Female-Female Thread Connector Elbow Copper,/media/part_images/Screenshot_2024-06-08_102257.png
+82,290,Brass Insert Nut Set M2>M5,Brass Insert Nut Set Hot Melt Knurled Thread Heat Injection Molding Embedment Copper Nut M2 M2.5 M3 M4 M5 M6 for Attach 3D Print,/media/part_images/Screenshot_2024-01-13_093226.png
+83,289,Brass Insert Nut Set M3,Brass Insert Nut Set Hot Melt Knurled Thread Heat Injection Molding Embedment Copper Nut M2 M2.5 M3 M4 M5 M6 for Attach 3D Print,/media/part_images/Screenshot_2024-01-13_093153.png
+84,6,Braun ThermoScan 7+,Termometro digitale per febbre,/media/part_images/irt6520_hero_front_1000x1000_16.jpg
+85,184,C_1000uf_35V_th,Electrolitic capacitor,/media/part_images/z5jngp3j.png
+86,192,C_100nF_50V_805,Ceramic capacitor,/media/part_images/100nf-50v-10-x7r-805-smd-kondansator-en-805-sheath-smd-capacitors-samsung-35070-12-B.jpg
+87,187,C_100nF_50V_th,Ceramic capacitor,/media/part_images/get_rbyUrYi.jpg
+88,678,C_10uF_16V_805,0805 SMD Capacitor ±10% X7R 16V 10uF,/media/part_images/Screenshot_2025-01-11_092312.png
+89,191,C_10uF_50V_805,Ceramic capacitor,/media/part_images/100nf-50v-10-x7r-805-smd-kondansator-en-805-sheath-smd-capacitors-samsung-35070-12-B.jpg
+90,189,C_1500uF_16V_th,Electrolitic capacitor,/media/part_images/get_2.jpg
+91,679,C_1uF_25V_805,0805 SMD Capacitor ±10% X7R 25V 1uF,/media/part_images/Screenshot_2025-01-11_092312.png
+92,193,C_2200uf_16V_th,Electrolitic capacitor,/media/part_images/z5jngp3j.png
+93,195,C_22uf_400V_th,Electrolitic capacitor,/media/part_images/z5jngp3j.png
+94,188,C_270uF_16V_th,Electrolitic capacitor,/media/part_images/get_1.jpg
+95,194,C_3300uf_16V_th,Electrolitic capacitor,/media/part_images/z5jngp3j.png
+96,186,C_47uF_25V_th,Electrolitic capacitor,/media/part_images/cap_1.jpg
+97,485,cable for CCTV IP camera board - power supply -LAN (no POE) black,cable for CCTV IP camera board - power supply -LAN (no POE) black,/media/part_images/Screenshot_2024-10-18_182215.png
+98,247,CADMouse,3DConnexion Mouse Wireless,/media/part_images/main_header_cmpw.jpg
+99,209,Captiva R57-197,Desktop PC (NUC i7 replacement),/media/part_images/images.jpg
+100,445,Car Interior Roof Lights 12V 36 LED Bulbs White,Car Interior Roof Lights 12V 36 LED Bulbs White,/media/part_images/Screenshot_2024-09-22_074704.png
+101,132,Carrello Spandiconcime,Carrello Spandiconcime prato Professionale 25 lt,/media/part_images/Screenshot_2023-04-22_080924.jpg
+102,273,Cavo 2x0.32 mmq (22AWG),100FT/30M 22 Gauge 2 Conduttori 22AWG Cavo Elettrico 2x0,32mm² 0,46mm²-Esterno Cavo LED a Bassa Tensione in Rame Stagnato Esterno per Strisce LED Lampade Llluminazione Automobilistica,/media/part_images/61l-TlmEksL._SX522_.jpg
+103,310,Cavo GD H05RR-F Nero 3 x 1,0 mm²,Cavo gomma 3x1,/media/part_images/Screenshot_2024-03-24_151148.png
+104,311,Cavo GD H05RR-F Nero 3 x 1,5 mm²,Cavo gomma 3x1.5,/media/part_images/Screenshot_2024-03-24_151148_H4cyz7C.png
+105,278,CAVO SCHERMATO FR2OHH2R 4G1,5 4x1,5 mm²,CAVO SCHERMATO FR2OHH2R 4G1,5 4x1,5 mm² GOMMATO ANTIFIAMMA QUADRIPOLARE FLESSIBILE 4 POLI 10 METRI - MARCA ELETTRO CAVI K,/media/part_images/61vgr-XS5OL._SX522__56stWYE.jpg
+106,277,CAVO SCHERMATO FR2OHH2R 4x1 mm²,CAVO SCHERMATO FR2OHH2R 4x1 mm² GOMMATO ANTIFIAMMA QUADRIPOLARE FLESSIBILE 4 POLI 10 METRI - MARCA ELETTRO CAVI K,/media/part_images/61vgr-XS5OL._SX522_.jpg
+107,159,C-Clamp Pliers,11" inch Face Clamp Locking C-Clamp Pliers Easy Quick Release For Dowelling Jig and Pocket Hole Jig Woodwork Construction Joint,/media/part_images/Ubb9053d281254ff9859b2098b982aae9e_1.jpg
+108,436,CLAMP GEARBOX RUBBER GAITER BIG,Anello fissaggio cuffia in gomma grande,/media/part_images/Screenshot_2024-09-14_074608.png
+109,435,CLAMP GEARBOX RUBBER GAITER SMALL,Anello fissaggio cuffia in gomma piccolo,/media/part_images/Screenshot_2024-09-14_074427.png
+110,135,CNC 4 Axis MPG Pendant Handwheel With E-stop Emergency,CNC 4 Axis 6 Axis MPG Pendant Handwheel With E-stop Emergency,/media/part_images/S60f14e2451fa4b80905b5a769fb6ab67o.jpg
+111,111,CNC 6090,Router CNC 6090,/media/part_images/get20.jpg
+112,134,CNC Controller 4Axis DDCSV4.1 off-line controller,CNC Controller 4Axis DDCSV4.1 off-line controller,/media/part_images/Sd7e17a8e48d647dba93f1e2442f2d690m.jpg
+113,293,COB LED Work Light,3pcs Powerful COB LED Work Light Garage Mechanic Lamp USB Rechargeable Flashlight MagneticTorch Emergency Light Warning Light,/media/part_images/Screenshot_2024-01-13_095258.png
+114,85,Constructor cp 1400 180cb,Levigatrice Lucidatrice rotativa,/media/part_images/get06.jpg
+115,235,Coral USB Accelerator,A USB accessory that brings accelerated ML inferencing to existing systems. Works with Linux, Mac, and Windows systems.,/media/part_images/Web_capture_2-9-2023_75843_coral.ai.jpeg
+116,409,Corsair Vengeance (2 x 16GB, 2400 MHz, DDR4-RAM, SO-DIMM),Corsair Vengeance (2 x 16GB, 2400 MHz, DDR4-RAM, SO-DIMM),/media/part_images/Screenshot_21-8-2024_9048_www.galaxus.ch.jpeg
+117,45,Corsair Vengeance RGB Pro SL (2 x 16GB, 3600 MHz, DDR4-RAM, DIMM),RAM,/media/part_images/31get.png
+118,315,Cortinet NAS DIY,DIY NAS for cortinet network,/media/part_images/Screenshot_2024-03-27_092637.png
+119,367,Cover Cap deLuxe protective cover, short,Cover Cap deLuxe protective cover, short,/media/part_images/Screenshot_2024-06-09_120600.png
+120,41,Cricut Maker 3,Plotter taglierina per vinile,/media/part_images/49get.png
+121,42,Cricut mug press starter kit,Pressa Termica,/media/part_images/51get.png
+122,53,Cricut Transfer press EasyPress 3,Cricut Transfer press EasyPress 3 30.5 x 25.4 cm,/media/part_images/image_5996588638848526417.png
+123,206,Crucial Laptop Memory (2 x 16GB, 2400 MHz, DDR4-RAM, SO-DIMM),RAM x,/media/part_images/Web_capture_14-7-2023_18024_www.galaxus.ch.jpeg
+124,322,Crucial Laptop Memory (2 x 32GB, 3200 MHz, DDR4-RAM, SO-DIMM),RAM,/media/part_images/Screenshot_2024-04-09_213207.png
+125,381,Cuffia semiasse esterna,Cuffia semiasse Fresia esterna lato ruota,/media/part_images/Screenshot_2024-07-04_072726.png
+126,380,Cuffia semiasse interna,Cuffia semiasse Fresia interna lato ruota,/media/part_images/Screenshot_2024-07-04_065213.png
+127,297,Cuscinetto 10x26x8mm,XiKe 2 Pezzi 6000-2RS Cuscinetti a sfera 10x26x8mm, Acciaio cromato/Pre-lubrificato/Doppie guarnizioni in gomma, 6000RS Cuscinetti a sfere a gola profonda,/media/part_images/Web_capture_15-1-2024_93651_www.amazon.it.jpeg
+128,274,Cuscinetto 6201-2RS - 12 x 32 x 10 mm,6201-2RS - Cuscinetto a doppia guarnizione in gomma, ABEC-5, 12 x 32 x 10 mm, 4 pezzi,/media/part_images/51omXyy3kL._SX522_.jpg
+129,146,CW-3000 Chiller 220V,CW-3000 Chiller 220V,/media/part_images/s-l1600.jpg
+130,317,CWWK 11th generation Core i7-1165G7 six-bay NAS board/4 network 2.5G/6 SATA3.0/2 M.2 NVMe/SFF-8643,CWWK 11th generation Core i3-1115G4/i5-1135G7/i7-1165G7 six-bay NAS board/4 network 2.5G/6 SATA3.0/2 M.2 NVMe/SFF-8643,/media/part_images/Screenshot_2024-03-27_093032.png
+131,320,Cyberpower Office Rackmount 1000VA/600W 6xIEC,Cyberpower Office Rackmount 1000VA/600W 6xIEC,/media/part_images/Screenshot_2024-03-29_081918.png
+132,260,DBS-22 Drill Bit Sharpening Attachment,Tormek - Affila punte trapano,/media/part_images/DBS-22_top_800x800.jpg
+133,325,Delock Dellock SAS cable: SFF-8643- 4xSATA , 0.5m,Delock Dellock SAS cable: SFF-8643- 4xSATA , 0.5m,/media/part_images/Screenshot_2024-04-08_193507.png
+134,466,Delock RP-SMA-RP-SMA, LMR/CFD100,Delock RP-SMA-RP-SMA, LMR/CFD100,/media/part_images/Screenshot_2024-10-04_165519.png
+135,319,Delock USB ShapeCable,USB3 15 cm extension cable,/media/part_images/Screenshot_2024-03-27_093905.png
+136,465,Delock WLAN Antenna RP-SMA,Delock WLAN Antenna RP-SMA,/media/part_images/Screenshot_2024-10-04_165350.png
+137,8,Devolo Magic 2,Devolo Magic 2 - Parte del Kit Triple,/media/part_images/06get.jpg
+138,9,Devolo Magic 2 Triple,Devolo Magic 2 Triple - Parte del kit triple,/media/part_images/Screenshot_2023-04-15_131656.jpg
+139,65,Devolo Magic 2 Wifi,Devolo PowerLine 2xETH + Wifi,/media/part_images/Screenshot_2023-04-15_135701.jpg
+140,314,Digitus DN-19 CASTOR-WM castor set for wall cabinets, universal frame,Digitus DN-19 CASTOR-WM castor set for wall cabinets, universal frame,/media/part_images/Screenshot_2024-03-27_092011.png
+141,327,Digitus DN-19 SET screw set, size M6 for 19" cabinets,Digitus DN-19 SET screw set, size M6 for 19" cabinets,/media/part_images/Screenshot_2024-04-10_175228.png
+142,313,Digitus Shelf DN-19 TRAY-1-SW,Digitus Shelf DN-19 TRAY-1-SW,/media/part_images/Screenshot_2024-03-27_091910.png
+143,312,Digitus Wall mounted enclosure Unique series - 600x450 mm (12 RU),Digitus Wall mounted enclosure Unique series - 600x450 mm (12 RU),/media/part_images/Screenshot_2024-03-27_091718.png
+144,321,Dörner + Helmer Parquet swivel castor,Dörner + Helmer Parquet swivel castor,/media/part_images/Screenshot_2024-03-29_082104.png
+145,149,Drawer Installation Jig,Drawer Installation Jig,/media/part_images/o46orzs38ayyewuyczkhzua6.jpg
+146,150,Drill Guide,Drill Guide,/media/part_images/6j6dccv57528khtw6wxz4q3mn.jpg
+147,668,DS18B20Z SOP-8,DS18B20U MSOP-8 Single Bus Temperature Sensor Chip,/media/part_images/Screenshot_2025-01-11_085348.png
+148,406,EDELHAND© misuratore di contorno set da 2,EDELHAND© misuratore di contorno set da 2,/media/part_images/Screenshot_5-8-2024_94514_www.amazon.it.jpeg
+149,91,EH 900,Pialla Elettrica portatile,/media/part_images/get11.jpg
+150,99,Einhell  DEG 200-E,Levigatrice triangolare,None
+151,74,Einhell TC-BJ 900,Fresatrice Orizzontale Lamellare,/media/part_images/get02.jpg
+152,96,Einhell WS-G 115,Smerigliatrice angolare,/media/part_images/get14.jpg
+153,338,Electrical Screw Terminal Block Strip 10P,Electrical Screw Terminal Block Strip 10P,/media/part_images/Screenshot_2024-05-18_082757.png
+154,339,Electrical Screw Terminal Block Strip 12P,Electrical Screw Terminal Block Strip 12P,/media/part_images/Screenshot_2024-05-18_082807.png
+155,333,Electrical Screw Terminal Block Strip 3P,Electrical Screw Terminal Block Strip 3P,/media/part_images/Screenshot_2024-05-18_082711.png
+156,334,Electrical Screw Terminal Block Strip 4P,Electrical Screw Terminal Block Strip 4P,/media/part_images/Screenshot_2024-05-18_082718.png
+157,335,Electrical Screw Terminal Block Strip 5P,Electrical Screw Terminal Block Strip 5P,/media/part_images/Screenshot_2024-05-18_082725.png
+158,336,Electrical Screw Terminal Block Strip 6P,Electrical Screw Terminal Block Strip 6P,/media/part_images/Screenshot_2024-05-18_082737.png
+159,337,Electrical Screw Terminal Block Strip 8P,Electrical Screw Terminal Block Strip 8P,/media/part_images/Screenshot_2024-05-18_082745.png
+160,250,elettrovalvola 220V,elettrovalvola 220V per lavatrici,/media/part_images/20231104_083923.jpg
+161,232,Elikliv EDM9 7 Inch 1080P LCD Digital Microscope,Elikliv EDM9 7 Inch 1080P LCD Digital Microscope 50X-1200X Soldering Electronics Microscopes With LED Lights Support PC Computer,/media/part_images/Web_capture_17-8-2023_184322_www.aliexpress.com.jpeg
+162,397,Enjoy solar Modulo solare 200W,Enjoy solar Modulo solare 200W,/media/part_images/Screenshot_2024-07-30_135932.png
+163,210,Epever RS485 to wifi adaptor v1.6,Epever module for Ghisi Solar system HA integration,/media/part_images/2020-09-18T10_19_44.302Z-P1020097.jpeg
+164,43,EPSON SureColor SC-F100,Stampante inchiostri sublimatici,/media/part_images/39get.png
+165,218,ESP32Camera AI-Thinker,ESP32Camera AI-Thinker,/media/part_images/S757df9ba1d2a4a59a6511b2b1a1939faR.jpg
+166,488,ESP32 Control Board Ver. 2.1,ESP32 Control Board Ver. 2.1,/media/part_images/Screenshot_2024-10-31_071904.png
+167,503,Expandable 6 Channel ESP32 Energy Meter Add-on Board,Expandable 6 Channel ESP32 Energy Meter Add-on Board,/media/part_images/Screenshot_2024-12-10_132401.png
+168,348,Expandable 6 Channel ESP32 Energy Meter Main Board,Expandable 6 Channel ESP32 Energy Meter Main Board,/media/part_images/Screenshot_2024-05-20_072527.png
+169,20,Fanatec ClubSport Button Cluster Pack,Set bottoni per podium Hub,/media/part_images/Screenshot_2023-04-15_151832.jpg
+170,13,Fanatec ClubSport Handbrake V1.5,Simulatore Freno a mano,/media/part_images/Screenshot_2023-04-15_151740.jpg
+171,19,Fanatec ClubSport Magnetic Paddle Module,Paddles per podium Hub,/media/part_images/Screenshot_2023-04-15_151645.jpg
+172,12,Fanatec ClubSport Pedals V3,Simulatore Pedaliera,/media/part_images/Screenshot_2023-04-15_151320.jpg
+173,11,Fanatec ClubSport Shifter SQ V 1.5,Simulatore cambio marcia,/media/part_images/Screenshot_2023-04-15_151413.jpg
+174,17,Fanatec ClubSport Steering Wheel Formula V2,Volante Formula,/media/part_images/Screenshot_2023-04-15_151128.jpg
+175,66,Fanatec ClubSport USB Adapter,Fanatec USB Adapter,/media/part_images/Screenshot_2023-04-15_150326.jpg
+176,21,Fanatec Podium Advanced Paddle Module,Set Paddles per Volante Formula,/media/part_images/Screenshot_2023-04-15_151548.jpg
+177,370,Fanatec Podium Button Module Rally,Designed in collaboration with the M-Sport World Rally Team, the Podium Button Module Rally is a feature-packed device used in the 2022 and 2023 Ford Puma Hybrid Rally1 WRC car.,/media/part_images/Product_Page_top_banner_Podium_Button_Module_Rally_2rjRGm2YU40jbR_1280x1280.jpg
+178,18,Fanatec Podium Hub,Mozzo per volanti standar,/media/part_images/Screenshot_2023-04-15_151501.jpg
+179,16,Fanatec Podium Wheel Base DD1,Motore Direct Drive Fanatec,/media/part_images/Screenshot_2023-04-15_150942.jpg
+180,372,Fanatec QR2 Base-Side (Type-M),,/media/part_images/Product_Page_top_banner_QR2_BS_Type_M_Front_angled_1280x1280.jpg
+181,371,Fanatec QR2 PRO Wheel-Side,The QR2 Pro Wheel-Side is the first quick release designed for both real and virtual racing applications,/media/part_images/Product_Page_top_banner_QR2_WS_PRO_Front_angledInwKOdC2JBAvW_1280x1280.jpg
+182,93,FatMax Stanley FME 1250-QS,Demolitore,/media/part_images/get24.jpg
+183,89,Fervi 0462,Sabbiatrice Portatile,/media/part_images/get10.jpg
+184,88,Fervi 580,Sabbiatrice Cabina,/media/part_images/get51.png
+185,204,Filtro Aria,Filtro Aria e prefiltro,/media/part_images/71-pVlnsizL._AC_SX679_.jpg
+186,203,Filtro olio B&S 492932S,Filtro olio motore B&S,/media/part_images/61s0XgNRtuL.__AC_SX300_SY300_QL70_ML2_.jpg
+187,474,FM25Q128A-SOP-8,FM25Q128A-SOB-T-G FM25Q128A SOB T G IC 100% Brand new,/media/part_images/Screenshot_2024-10-18_134657.png
+188,326,Fritz!Box 5530 Fiber,Fritz!Box 5530 Fiber,/media/part_images/fritzbox_5530_fiber_left_de_wi-fi_6_640x400.png
+189,7,FRITZ!Box 7530,Main Origlionet Router,/media/part_images/38get.png
+190,59,Fritz!DECT Phone,FRITZ!Fon C6 di AVM,/media/part_images/48get.png
+191,56,Fritz!Repeater 1200EX,AVM FRITZ!Repeater 1200 AX International (2400 Mbit/s, 600 Mbit/s),/media/part_images/40get.png
+192,58,Fritz!Repeater 3000,FRITZ! 3000,/media/part_images/37get.png
+193,57,Fritz!Repeater 3000EX,AVM FRITZ!Repeater 3000 AX International,/media/part_images/36get.png
+194,304,Fritz!Repeater 6000,Fritz!Repeater 3000,/media/part_images/Screenshot_2024-02-24_101428.png
+195,358,G10q UV Germicidal Lamp Ultraviolet Light Filter 15W,G10q UV Germicidal Lamp Ultraviolet Light Filter 15W,/media/part_images/Screenshot_2024-05-26_084907.png
+196,67,Gaming PC,Gaming PC for drive simulation,/media/part_images/892b6b84-a820-4c45-93fe-bb4f084dc7378173355975755809794.jpg
+197,180,GandALF - 325572-01 replacement module,GandALF Drive Logic Array Substitute: (replaces 325572-01 for the 1541),/media/part_images/image-492.jpg
+198,434,GEARBOX RUBBER GAITER BIG,cuffia gomma cambio grande,/media/part_images/Screenshot_2024-09-14_074245.png
+199,433,GEARBOX RUBBER GAITER SMALL,cuffia gomma cambio piccola,/media/part_images/Screenshot_2024-09-14_074117.png
+200,429,GEAR LEVER COVER GIULIA, GT BERTONE, SPIDER W/O CENTER CONSOLE SKAY BLACK,base di copertura leva cambio,/media/part_images/Screenshot_2024-09-14_073514.png
+201,428,GEAR LEVER GAITER WITHOUT CONSOLE LEATHER BLACK,Cuffia protezione leva cambio,/media/part_images/Screenshot_2024-09-14_073307.png
+202,437,GEAR LEVER METAL PLATE,Anello per leva cambio,/media/part_images/Screenshot_2024-09-14_074718.png
+203,438,GEAR LEVER RUBBER SEAL,guarnizione leva cambio,/media/part_images/Screenshot_2024-09-14_074826.png
+204,48,Gigabyte Aorus Gen4 (2000 GB, M.2 2280),SSD,/media/part_images/41get.png
+205,49,Gigabyte MB X570S AORUS ELITE AX X570,AM4AMD (AM4, AMD X570, ATX),Motherboard,/media/part_images/35get.png
+206,270,Google Nest Mini,Google Nest Mini,/media/part_images/Web_capture_23-12-2023_8240_www.galaxus.ch.jpeg
+207,113,Güde GSE2700,Generatore,/media/part_images/get21.jpg
+208,148,Guida per spinatura,Guida per spinatura,/media/part_images/4ifuirtq441nguz5zpfdw2c2a.jpg
+209,276,GX 16 - 5 Pin,QitinDasen 6 Set GX16 5-Pin Aviazione Spina Connettore, 5A 16mm Maschio Femmina Metallo Aviazione Spina Connettore, con Gomma Berretto e Cacciavite a Croce,/media/part_images/61i3aUlHfL._AC_SX522_.jpg
+210,284,H17  Hole type - MF,H17 Aviation plug, Hole type (maschio e femmina) fori sul maschio,/media/part_images/Web_capture_6-1-2024_9445_www.aliexpress.com.jpeg
+211,403,Haishine Kit Carburatore per STIHL MS018,Haishine Kit Carburatore per STIHL MS018 Filtro Dell'Aria Kit Guarnizioni Carburatore per ZAMA C1Q-S57A C1Q-S57 C1Q-S57B,/media/part_images/Screenshot_5-8-2024_93711_www.amazon.it.jpeg
+212,131,Hand-Held Laser Power Meter 0-200W,CO2 Laser Meter,/media/part_images/63d90ccd00f220f9f48b475a.jpeg
+213,376,hansgrohe Miscelatore monocomando HG per lavello Zesis M33 150, doccetta estraibile, 2 getti cromo,,/media/part_images/Capture_NaA6L9j.PNG
+214,266,Heater Exhaust Pipe 150cm,Dual-layer Car Heater Exhaust Pipe Stainless Steel For Webasto Eberspacher Air Diesel Heater Exhaust Hose Tube Line,/media/part_images/Web_capture_14-12-2023_83635_www.aliexpress.com.jpeg
+215,265,Heater Exhaust Pipe 200cm,Dual-layer Car Heater Exhaust Pipe Stainless Steel For Webasto Eberspacher Air Diesel Heater Exhaust Hose Tube Line,/media/part_images/Web_capture_14-12-2023_83216_www.aliexpress.com.jpeg
+216,269,Heater Exhaust Pipe Stainless Steel connector 24mm,Heater Exhaust Pipe Stainless Steel connector 24mm,/media/part_images/Web_capture_14-12-2023_84139_www.aliexpress.com.jpeg
+217,430,HEATER FASCIA PANEL CHROME GIULIA / GT BERTONE / SPIDER 1970-85 WITH CONSOLE,mascherina ventilazione cromata,/media/part_images/Screenshot_2024-09-14_073700.png
+218,497,Heat Shrinkable Tube 40mmx1mm 1pin Smoove Fiber Optic Splice Protector Heat Shrink Tube,Heat Shrinkable Tube 40mmx1mm 1pin Smoove Fiber Optic Splice Protector Heat Shrink Tube,/media/part_images/Screenshot_2024-11-27_102812.png
+219,498,Heat Shrinkable Tube 60mmx5.5mm 1pin Smoove Fiber Optic Splice Protector Heat Shrink Tube,Heat Shrinkable Tube 60mmx5.5mm 1pin Smoove Fiber Optic Splice Protector Heat Shrink Tube,/media/part_images/Screenshot_2024-11-27_102812.png
+220,496,Heat Shrinkable Tube 60mmx5.5mm 2pin Smoove Fiber Optic Splice Protector Heat Shrink Tube,Heat Shrinkable Tube 60mmx5.5mm 2pin Smoove Fiber Optic Splice Protector Heat Shrink Tube,/media/part_images/Screenshot_2024-11-27_102812.png
+221,155,High Atomization RP Spray Gun For Cars 6800B,High Atomization RP Spray Gun For Cars 6800B,/media/part_images/Web_capture_1-3-2022_131741_www.aliexpress.com.jpeg
+222,377,Hinged Plastic Screw Cap - Black,100Pcs Hinged Plastic Screw Cap Cover Fold Snap Protective Cap Button For Car Furniture Decorative Nuts Cover Bolts Hardware,/media/part_images/Capture_7Jlr5Gd.PNG
+223,378,Hinged Plastic Screw Cap - Grey,,/media/part_images/Capture2.PNG
+224,281,Holes Screwdriver Bit Holder Storage Organizer,5pcs 10 Holes Screwdriver Bit Holder Storage Organizer 1/4 Inch Hex Shank Screwdriver Head Drill Bit Stand Case Power Tool,/media/part_images/Web_capture_6-1-2024_8336_www.aliexpress.com.jpeg
+225,309,HP EliteDisplay E242 Monitor,ex Avaloq Display 24'',/media/part_images/Screenshot_2024-03-24_101314.png
+226,55,HP Laptop ex Avaloq,HP Laptop ex Avaloq,None
+227,24,HP LaserJet M15w,Laserjet A4 B/W printer HP,/media/part_images/LARGE-hp-laserjet-pro-m15w.jpg
+228,208,Icy Box IB-1817M-C31 - NVMe M.2,Icy Box IB-1817M-C31 - NVMe M.2,/media/part_images/Web_capture_14-7-2023_18537_www.galaxus.ch.jpeg
+229,411,Icy Box ICYBOX IB-M2HS-701 heatshield M.2 2280 SSD,Icy Box ICYBOX IB-M2HS-701 heatshield M.2 2280 SSD,/media/part_images/Screenshot_21-8-2024_9828_www.galaxus.ch.jpeg
+230,316,Innovision NAS Storage Server chassis,2023 New hot-swap NAS Storage Server chassis IPFS Miner 4 drive bays 6GB sata backplane support mini-itx motherboard,/media/part_images/Screenshot_2024-03-27_092637_MNPv6KD.png
+231,291,Inspection Lamp Flashlight,Inspection Lamp Flashlight COB LED USB Rechargeable Magnetic Folding Hook Tent Camping Torch Work Lights Built-in Battery,/media/part_images/Screenshot_2024-01-13_094258.png
+232,432,INSULATING MAT ORIGINAL MATERIAL 50 x 100 cm,Pannello fonoassorbente,/media/part_images/Screenshot_2024-09-14_073946.png
+233,373,Integrated Vario™ monitor mount,Integrated Vario™ monitor mount,/media/part_images/Screenshot_2024-06-22_145844.png
+234,236,Intel NUC11PHKI7C (Intel Core i7-1165G7),Intel NUC Homeservice,/media/part_images/Web_capture_7-9-2023_91647_www.digitec.ch.jpeg
+235,230,Intel NUC8I7BELS1 Perfomance,Intel NUC Homeservice,/media/part_images/Web_capture_17-8-2023_18269_www.digitec.ch.jpeg
+236,323,Intenso M.2 SSD PCIe Premium 250GB,Intenso M.2 SSD PCIe Premium 250GB NVMe 1.3,/media/part_images/Screenshot_2024-04-09_213018.png
+237,444,IR 36 LED Light Board Module for Day Night Vision Camera,IR 36 LED Light Board Module for Day Night Vision Camera,/media/part_images/Screenshot_2024-09-22_073303.png
+238,486,IR-CUT 20mm Lens Mount Holder for CCTV Camera,IR-CUT 20mm Lens Mount Holder for CCTV Camera,/media/part_images/Screenshot_2024-10-18_183530.png
+239,233,IWISS IWS-2820M,iCrimp Mini Micro Open Barrel Crimping Tools Works on AWG28-20 JAM, Molex, Tyco, JST Terminals and Connectors used for FPV, Drone Servo,/media/part_images/IWISS-IWS-2820M-Mini-Micro-Open-Barrel-Crimping-Tools-funziona-su-AWG28-20-J_cSqQ82U.jpg
+240,303,Jabra Evolve 65 SE UC Duo,Jabra Evolve 65 SE UC Duo,/media/part_images/Screenshot_2024-02-17_073302.png
+241,475,JST 1.25 2p 3p 4p 5 pin 1.25mm Pitch Terminal Connectors Kits,JST 1.25 2p 3p 4p 5 pin 1.25mm Pitch Terminal Connectors Kits,/media/part_images/Screenshot_2024-10-18_142938.png
+242,483,JST 1.25 Pitch Connector Kit Jst SH GH ZH PH XH 2-6Pin Housing with Pre-crimped 22-28AWG Cables,JST 1.25 Pitch Connector Kit Jst SH GH ZH PH XH 2-6Pin Housing with Pre-crimped 22-28AWG Cables,/media/part_images/Screenshot_2024-10-18_152851.png
+243,248,jst sm cable 4pole female,jst sm 10cm prewired cable female,/media/part_images/20231104_083502.jpg
+244,249,jst sm cable 4pole male,jst sm 10cm prewired cable male,/media/part_images/20231104_083457.jpg
+245,256,jst sm female connector 2p,jst sm female connector 2p,/media/part_images/Screenshot_2023-11-04_090035.png
+246,255,jst sm female connector 3p,jst sm female connector 3p,/media/part_images/Screenshot_2023-11-04_090101.png
+247,254,jst sm female connector 4p,jst sm female connector 4p,/media/part_images/Screenshot_2023-11-04_090119.png
+248,251,jst sm male connector 2p,jst sm male connector 2p,/media/part_images/Screenshot_2023-11-04_090035_Jlz66IJ.png
+249,252,jst sm male connector 3p,jst sm male connector 3p,/media/part_images/Screenshot_2023-11-04_090101_URDItXA.png
+250,253,jst sm male connector 4p,jst sm male connector 4p,/media/part_images/Screenshot_2023-11-04_090119_0QEBkSt.png
+251,396,Kerbl Eco Kill,The electric fly killers with high quality stainless steel housing.,/media/part_images/Screenshot_2024-07-16_074335.png
+252,237,Kingston FURY Impact (2 x 32GB, 3200 MHz, DDR4-RAM, SO-DIMM),RAM NUC,/media/part_images/Web_capture_7-9-2023_91913_www.digitec.ch.jpeg
+253,207,Kingston NV2,Kingston NV2 M2 4TB SSD,/media/part_images/Web_capture_14-7-2023_18334_www.galaxus.ch.jpeg
+254,404,Kit antivibrazione per Stihl MS018,Kit antivibrazione per Stihl MS018,/media/part_images/Screenshot_5-8-2024_9399_www.amazon.it.jpeg
+255,402,Kit carburatore,Haishine Carburetor Aspirazione/Tirante dell'acceleratore/Kit albero di commutazione/Choke Rod per Stihl MS 018,/media/part_images/Screenshot_5-8-2024_93428_www.amazon.it.jpeg
+256,129,KOMOK JYH-606,Forbici a Batteria 21V,/media/part_images/61z-dtDcYGL._AC_SY450_.jpg
+257,128,KOMOK JYH-606D,Forbici a Batteria 21V,/media/part_images/image_2164021405576696274.png
+258,427,KZYEE KT60 Digital Timing Light - Lampada stroboscopica per anticipo,KZYEE KT60 Digital Timing Light - Lampada stroboscopica per anticipo,/media/part_images/Screenshot_2024-09-13_174011.png
+259,285,Lapp 00100034 - oleflex Classic 100, 5 x 0,5 mm²,Lapp 00100034 - Cavo di controllo oleflex Classic 100, 5 x 0,5 mm², con conduttore di protezione verde e giallo, 5 G0,5 mm², 5 fili, cavo in PVC a 5 fili,/media/part_images/61FKL7zcCXL._SX522_.jpg
+260,139,L-BOXX 102,L-BOXX 102,/media/part_images/download.jpeg
+261,480,LC/APC Fiber Pigtail with Single mode G657A2-1.2m - 12 colors,LC/APC Fiber Pigtail with Single mode G657A2-1.2m - 12 colors,/media/part_images/Screenshot_2024-10-18_150857.png
+262,664,LD1117-3.3,LD1117-3.3 LD1SOT-223 Low Dropout Linear Regulator,/media/part_images/Screenshot_2025-01-11_083236.png
+263,665,LD1117-5.0,LD1117-5.0 LD1SOT-223 Low Dropout Linear Regulator,/media/part_images/Screenshot_2025-01-11_083244.png
+264,499,LED Strip 5mt 2815 DC12V white PCB - 60LED/mt IP65,LED Strip 5mt 2815 DC12V white PCB - 60LED/mt IP65,/media/part_images/Screenshot_2024-11-27_104853.png
+265,160,LEICKE 5VDC 4A PSU,LEICKE Alimentatore Universale 5V 4A Caricabatterie 20W | Connettore 5,5 * 2,5 mm |,/media/part_images/81g01V-j5cL._AC_SL1500_.jpg
+266,71,Leman TAB 050,Tornio,/media/part_images/s2ks34q4a93pq748gu8dp3ml.jpg
+267,50,Lian-Li Galahad 360 SL V2,Raffreddamento CPU,/media/part_images/46get.png
+268,46,Lian-Li PC-O11DX Dynamic (E-ATX, mATX, ATX),Case,/media/part_images/33get.png
+269,47,Lian-Li VENTILATORE UNI FAN SL120 RGB PWM,Fan,/media/part_images/47get.png
+270,324,Lightwin Cavo in fibra ottica,Lightwin Cavo in fibra ottica,/media/part_images/Screenshot_2024-04-08_193040.png
+271,469,Lightwin Fiber optic cable 5m,Lightwin Fiber optic cable 5 m,/media/part_images/Screenshot_2024-10-04_173249.png
+272,171,LM311,LM311 LM311P LM311N DIP-8 voltage comparator,/media/part_images/DIP-8.png
+273,217,LogiLink Splitter (Network Hub),LogiLink Splitter (Network Hub),/media/part_images/usb_hub.png
+274,408,LOGITECH MX Keys Advanced,LOGITECH MX Keys Advanced,/media/part_images/Screenshot_5-8-2024_11388_www.zeekonline.co.za.jpeg
+275,484,M12 Mount Thread Extension Adapter for CCTV Lens,,/media/part_images/Screenshot_2024-10-18_181335.png
+276,455,M2 Brass Copper Female/Male Spacing Screws 300PCS/Set,M2 Brass Copper Female/Male Spacing Screws 300PCS/Set,/media/part_images/Screenshot_2024-09-22_082157.png
+277,389,M5X12 10.9 Grade Alloy Steel Hex Socket Button Head Cap Bolts, Black Oxide Finish,M5X12 10.9 Grade Alloy Steel Hex Socket Button Head Cap Bolts, Black Oxide Finish,/media/part_images/Screenshot_2024-07-06_073959.png
+278,390,M5X20 10.9 Grade Alloy Steel Hex Socket Button Head Cap Bolts, Black Oxide Finish,M5X20 10.9 Grade Alloy Steel Hex Socket Button Head Cap Bolts, Black Oxide Finish,/media/part_images/Screenshot_2024-07-06_073959.png
+279,368,Magic Plastics drain valve 1/2" - Caldera/Dynasty,Magic Plastics drain valve 1/2" - Caldera/Dynasty,/media/part_images/Screenshot_2024-06-09_121123.png
+280,101,Makita BO5031K,Levigatrice orbitale,/media/part_images/get17.jpg
+281,115,Mannesmann M15350,Chiodatrice,/media/part_images/get40.png
+282,137,MEAN WELL MDR-20-24 Industrial Din Rail 20W Single Output Switching Power Supply 24V,MEAN WELL MDR-20-24 Industrial Din Rail 20W Single Output Switching Power Supply 24V,/media/part_images/Screenshot_2023-04-29_070412.jpg
+283,138,MEATER Plus With Bluetooth® Repeater,MEATER Plus With Bluetooth® Repeater,/media/part_images/Screenshot_2023-04-29_071113.jpg
+284,308,MediaRange CR2450,,/media/part_images/Screenshot_2024-03-22_073510.png
+285,302,Mercedes Benz EQE SUV 43 AMG,,/media/part_images/Screenshot_2024-02-09_102928.png
+286,487,Metal lens holder single board computer lens holder M12 lens holder CCD & CMOS lens holder,Metal lens holder single board computer lens holder M12 lens holder CCD & CMOS lens holder,/media/part_images/Screenshot_2024-10-18_213210.png
+287,90,MetalPolishing 200mm,Mola grande,/media/part_images/get32.jpg
+288,510,MH-ET LIVE D1 Mini ESP32,MH-ET LIVE D1 Mini ESP32/ESP-32 WIFI Development Board NodeMCU Lua IOT Board,/media/part_images/Screenshot_2024-12-14_063926.png
+289,489,MH-ET LIVE ESP32 Development Board,MH-ET LIVE ESP32 Development Board WiFi+Bluetooth Ultra-Low Power Consumption Dual Core ESP-32 ESP-32S Similar ESP8266 CH9102X,/media/part_images/Screenshot_2024-11-09_165056.png
+290,272,microswitch V-152-1C25,Gebildet 12pcs V-152-1C25 125V/250V 15A Momentaneo Micro Interruttore,Finecorsa SPDT 3 Pin,1NO 1NC Mini Interruttore a Levetta Pulsante Tipo+24pcs Terminali,/media/part_images/513zH99L0fL._AC_SX679_.jpg
+291,457,Mini ir cut m12 mount 5.0 Megapixel Pinhole lens special IR Cut Filter 20mm Lens Mount Holder,Mini ir cut m12 mount 5.0 Megapixel Pinhole lens special IR Cut Filter Dual ICR Double Switcher IR-CUT 20mm Lens Mount Holder,/media/part_images/Screenshot_2024-10-04_141147.png
+292,476,Mini Micro JST 1.25 - 2 Pole - 15cm,Mini Micro JST 1.25 - 2 Pole - 15cm,/media/part_images/Screenshot_2024-10-18_145040.png
+293,477,Mini Micro JST 1.25 - 3 Pole - 15cm,Mini Micro JST 1.25 - 3 Pole - 15cm,/media/part_images/Screenshot_2024-10-18_145040.png
+294,478,Mini Micro JST 1.25 - 4 Pole - 15cm,Mini Micro JST 1.25 - 4 Pole - 15cm,/media/part_images/Screenshot_2024-10-18_145040.png
+295,479,Mini Micro JST 1.25 - 5 Pole - 15cm,Mini Micro JST 1.25 - 5 Pole - 15cm,/media/part_images/Screenshot_2024-10-18_145040.png
+296,166,MiSTer FPGA,MiSTer FPGA complete assembly,/media/part_images/3GAI6Ij1.jpeg
+297,365,MLX Female Crimp Terminal 42024,MLX Female Crimp Terminal 42024,/media/part_images/Screenshot_2024-05-26_113904.png
+298,364,MLX Male Crimp Terminal 42023,MLX Male Crimp Terminal 42023,/media/part_images/Screenshot_2024-05-26_113749.png
+299,347,Modular Ethernet Crimping Tool for Pass Through Connectors,ZoeRax Ratcheting Modular Ethernet Crimping Tool Cat 8 (Cat5 Cat6 Cat7 Cat8 RJ45 Crimp Tool) for Pass Through Connectors,/media/part_images/Screenshot_2024-05-18_094113.png
+300,363,Molex 4021-12 (3x4 Pin) 6.3mm Connector,Molex 4021-12 (3x4 Pin) 6.3mm Connector,/media/part_images/Screenshot_2024-05-26_104703.png
+301,360,Molex 4021-4 (4 Pin) 6.3mm Connector,Molex 4021-4 (4 Pin) 6.3mm Connector,/media/part_images/Screenshot_2024-05-26_104411.png
+302,362,Molex 4022-12 (3x4 Pin) 6.3mm Connector,Molex 4022-12 (3x4 Pin) 6.3mm Connector,/media/part_images/Screenshot_2024-05-26_104711.png
+303,361,Molex 4022-4 (4 Pin) 6.3mm Connector,Molex 4022-4 (4 Pin) 6.3mm Connector,/media/part_images/Screenshot_2024-05-26_104420.png
+304,169,Monitor HDMI 2K IPS Screen Nanok,UPERFECT Monitor HDMI 2K IPS Screen LCD PC Raspberry Pi IPS Portable Computer USB Gaming Display For PS4 Xbox360 Switch,/media/part_images/H10c3caa6c8554931a66f3a2b26e84ec9F.jpg
+305,179,MOS6522,MOS6522 VERSATILE INTERFACE ADAPTER,/media/part_images/r65c02p3-ic-dip-40.jpg
+306,114,MOSA 4Kw,Generatore,/media/part_images/get22.jpg
+307,52,MSI RTX 3090 TI SUPRIM X 24G (24 GB),GPU,/media/part_images/43get.png
+308,286,NEMA 23 stepper 3NM 4.2A,,/media/part_images/61GNLS91CQL._SX522_.jpg
+309,205,NGK B4-LM,NGK 3410 B4-LM Candela,/media/part_images/617uzOuW4QL._AC_SX522_.jpg
+310,122,Noco GB150 geniale BOOST (8000mAh, 3000A),Booster 12v,/media/part_images/get31.jpg
+311,123,Noco XGC4 56W XGC,PSU Booster 12v,/media/part_images/get30.jpg
+312,328,Noctua NF-A12X25 PWM chromax.black.swap,Noctua NF-A12X25 PWM chromax.black.swap,/media/part_images/Screenshot_2024-04-10_175402.png
+313,262,Norres tubo di aspirazione antistatico, diametro di 100 mm, 5 m,Tubo aspiratrucioli flessibile,/media/part_images/81S-M2XMcL._AC_SX569_.jpg
+314,242,Nvidia Shield 2019,,/media/part_images/Web_capture_21-9-2023_12100_www.digitec.ch.jpeg
+315,213,Odroid Adattatore da Micro SD a modulo eMMC,Odroid Adattatore da Micro SD a modulo eMMC,/media/part_images/emmc_adapter.png
+316,212,Odroid C4,,/media/part_images/odroid.png
+317,214,Odroid Modulo eMMC da 64 GB per Odroid H2,Odroid Modulo eMMC da 64 GB per Odroid H2,/media/part_images/emmc.png
+318,505,One for All Ir Remote Extender Global,One for All Ir Remote Extender Global,/media/part_images/Screenshot_2024-12-10_134247.png
+319,490,One for All Smart WM2111,One for All Smart WM2111,/media/part_images/Screenshot_2024-11-22_100055.png
+320,482,optical fiber cable bundle 100mtr 4  cores SM G657A1 indoor cable single mode flexible yellow,optical fiber cable bundle 100mtr 4  cores SM G657A1 indoor cable single mode flexible yellow,/media/part_images/Screenshot_2024-10-18_152230.png
+321,401,OREGON Protezione viso con cuffie,OREGON Protezione viso con cuffie,/media/part_images/Screenshot_4-8-2024_8928_newweb.lucacastellisa.ch.jpeg
+322,481,Original AI-9 Signal Fire SM & MM Multi-Language FTTH Fiber Optic Splicing Machine,Original AI-9 Signal Fire SM & MM Multi-Language FTTH Fiber Optic Splicing Machine,/media/part_images/Screenshot_2024-10-18_151529.png
+323,448,Outdoor wifi Omni external waterproof antenna,Outdoor wifi Omni external waterproof antenna,/media/part_images/Screenshot_2024-09-22_080304.png
+324,133,Panasonic SA-CH150,Impianto stereo Cla,/media/part_images/raw.jpg
+325,507,PCB custom IC for Transformer (power meter),PCB custom IC for Transformer (power meter),/media/part_images/Screenshot_2024-12-11_075809.png
+326,202,Philips Hue Resonate Basis (1200 lm),Philips Hue Resonate Basis (1200 lm),/media/part_images/Web_capture_30-6-2023_92021_www.galaxus.ch.jpeg
+327,491,PicoBlade 1.25mm Pitch Molex Connector with 28AWG Cable MX Connector 2>10 Pin (KS-MX1.25-Kit),,/media/part_images/Screenshot_2024-11-27_093814.png
+328,157,Pinza crimpatrice Engineer Pa-09,Pinza crimpatrice universale per cavi e connettori mini e micro (piccoli Molex, Jst, Hrs, Tyco, Amp, Jae, ecc.) Engineer Pa-09,/media/part_images/612gRIZUluL._AC_SL1500_.jpg
+329,426,Pneumatico Michelin 195/60 R15 Primacy 4 88V,Pneumatico Michelin 195/60 R15 Primacy 4 88V,/media/part_images/Screenshot_2024-09-13_102109.png
+330,458,POE Module 48V to 12V CCTV RJ45 Cable,POE Module 48V to 12V CCTV RJ45 Cable,/media/part_images/Screenshot_2024-10-04_143600.png
+331,280,Power EMI Filter CW1B-10A-T,Power EMI Filter CW1B-10A-T Connector 10A 115V 250V CW1B 50/60HZ,/media/part_images/Web_capture_6-1-2024_83057_www.aliexpress.com.jpeg
+332,405,Preciva Calibro Digitale da 150 mm/6 pollice elettronico in acciaio inossidabile,Preciva Calibro Digitale da 150 mm/6 pollice elettronico in acciaio inossidabile,/media/part_images/Screenshot_5-8-2024_94240_www.amazon.it.jpeg
+333,263,PSU 12VDC 10A,ALIMENTATORE 12V 10A 100-220V STABILIZZATO SWITCH TRIMMER DISSIPATORE INTERNO,/media/part_images/61ief6aEvnL._AC_SX522_.jpg
+334,264,PSU 12VDC 20A,NEWSTYLE 12V 20A Alimentatore, AC 110V/220V to DC 12V 240W 20A Accessorio per Stampanti 3D,LED Striscia luci CCTV Computer Progetto Sistema di Sicurezza,/media/part_images/61scBSSn7cL._SX522_.jpg
+335,375,Purelink DisplayPort — DisplayPort,,/media/part_images/Capture_TH8yp0e.PNG
+336,154,Qiangsheng Mahogany and Brass, Fine Woodworking,Qiangsheng Mahogany and Brass, Fine Woodworking,/media/part_images/square.PNG
+337,240,QNAP TS-453-PRO,,/media/part_images/149_1406531145_TS-453-Pro-Right-angle-of-elevation.png
+338,298,QNAP TS-469L,NS-01 NAS,/media/part_images/s-l1600_iZ578cA.jpg
+339,508,Quinled Dig UNO pcb V3.2,Quinled Dig UNO pcb V3.2,/media/part_images/Screenshot_2024-12-11_080040.png
+340,509,Quinled Dig UNO pcb V3.2 - Stencil,Quinled Dig UNO pcb V3.2 - Stencil,/media/part_images/Screenshot_2024-12-11_081030.png
+341,813,R_3K ohm 1%_805,R_3K ohm 1%_805 SMD resistor,None
+342,178,R65C02,8bit Microprocessors,/media/part_images/r65c02p3-ic-dip-40.jpg
+343,5,Raspberry Pi 3 Model B Plus Rev 1.3,Rpi 3 SBC,/media/part_images/71MIhHxfhdL._SL1500_.jpg
+344,1,Raspberry Pi 3 Model B Rev 1.2,Rpi 3 SBC,/media/part_images/get.jpg
+345,2,Raspberry Pi 4 Model B Rev 1.4,Rpi 4 SBC,/media/part_images/Screenshot_2023-04-22_090201.jpg
+346,3,Raspberry Pi Zero W Rev 1.1,Rpi 0 SBC,/media/part_images/get.png
+347,33,RD6006W Power Supply,Power Supply adjustable converter multimeter 60V 6A,/media/part_images/24get.jpg
+348,241,Remote for Xiaomi MI TV Stick,,/media/part_images/Web_capture_18-9-2023_135239_www.amazon.it.jpeg
+349,234,Reolink E1 Outdoor,PTZ 5MP Outdoor Camera,/media/part_images/Web_capture_28-8-2023_81249_www.amazon.it.jpeg
+350,246,Reolink  E1 Zoom V2,Reolink Indoor camera,/media/part_images/Web_capture_24-10-2023_73036_www.galaxus.ch.jpeg
+351,141,RetroScaler Metal Cases for Mister FPGA Kit,Case for MiSTer,/media/part_images/H47b855f259484519bb7f3f5baa3eb417p.jpg
+352,143,RetroScaler MisTer SDRAM 128MB,RetroScaler MisTer SDRAM 128MB(v2.9) Manual Welding Extra Slim Board for MisTer FPGA DE10-Nano,/media/part_images/S8baec5a4c0854775b1ecf1a9458c7ab8S.jpg
+353,167,RetroScaler MisTer USB Hub,RetroScaler Manual Welding MisTer USB Hub v2.1 Board with 7 USB Ports for MisTer FPGA,/media/part_images/Screenshot_2023-05-27_065705.jpg
+354,142,RetroScaler v6.1Mister I/O Board,RetroScaler Manual Welding v6.1Mister I/O Board Analog Interface Support SNAC for Mister FPGA,/media/part_images/H6fa2fb1dcf5c4349b487732c24b36d29k.jpg
+355,245,REVODATA Gigabit PoE Splitter 12V/2A,REVODATA Gigabit PoE Splitter 12V/2A DC 5.5 * 2.1mm Connettore, 48V PoE a DC 12V/2A Uscita, 10/100/1000Mbps Standard IEEE802.3af/at, Attivo Adattatore PoE per Telecamera IP/AP/Smart Home (PS5712TG),/media/part_images/61AcclrahsL._AC_SL1500_.jpg
+356,78,Rexon m2500al,Troncatrice,/media/part_images/get08.jpg
+357,296,Rigid shaft coupler 10mm-10mm,Rigid Shaft Coupler D25L40 Clamp Stepper Motor Coupling Engrave Machine Screw Clamp Power Tool Accessories,/media/part_images/Web_capture_15-1-2024_84729_www.aliexpress.com.jpeg
+358,295,Rigid shaft coupler 8mm-10mm,Rigid Shaft Coupler D25L40 Clamp Stepper Motor Coupling Engrave Machine Screw Clamp Power Tool Accessories,/media/part_images/Web_capture_15-1-2024_84711_www.aliexpress.com.jpeg
+359,211,RJ45 8P8C Jack 4-Way Buss Breakout Board, Terminal Block, Connector.,RJ45 splitter per EPEVER Ghisi,/media/part_images/Web_capture_4-8-2023_75346_www.aliexpress.com.jpeg
+360,345,RJ45 Black Pass Through,ZoeRax RJ45 Cat6 Pass Through Connectors, Assorted Colors, EZ to Crimp Modular Plug for Solid or Stranded UTP Network Cable,/media/part_images/Screenshot_2024-05-18_092334.png
+361,346,RJ45 Blue Pass Through,ZoeRax RJ45 Cat6 Pass Through Connectors, Assorted Colors, EZ to Crimp Modular Plug for Solid or Stranded UTP Network Cable,/media/part_images/Screenshot_2024-05-18_092334.png
+362,452,RJ45 Connector Plug Protective Sleeve - Blue,RJ45 Connector Plug Protective Sleeve - Blue,/media/part_images/Screenshot_2024-09-22_081224.png
+363,454,RJ45 Connector Plug Protective Sleeve - Green,RJ45 Connector Plug Protective Sleeve - Green,/media/part_images/Screenshot_2024-09-22_081517.png
+364,451,RJ45 Connector Plug Protective Sleeve - Grey,RJ45 Connector Plug Protective Sleeve - Grey,/media/part_images/Screenshot_2024-09-22_081037.png
+365,453,RJ45 Connector Plug Protective Sleeve - Red,RJ45 Connector Plug Protective Sleeve - Red,/media/part_images/Screenshot_2024-09-22_081325.png
+366,450,RJ45 Connector Plug Protective Sleeve - Yellow,RJ45 Connector Plug Protective Sleeve - Yellow,/media/part_images/Screenshot_2024-09-22_080941.png
+367,344,RJ45 Gold Pass Through,ZoeRax RJ45 Cat6 Pass Through Connectors, Assorted Colors, EZ to Crimp Modular Plug for Solid or Stranded UTP Network Cable,/media/part_images/Screenshot_2024-05-18_092334.png
+368,343,RJ45 Transparent Pass Through,ZoeRax CAT5e CAT6 Connector RJ45 Modular Plug Network Connectors 50μ Gold-Plated 1.1mm Hole End for Ethernet Cable,/media/part_images/Screenshot_2024-05-18_092053.png
+369,197,ROM 2364 to 2764 adapter,Adapter allow to use 2764 EPROM on 1541 (replace 2364),/media/part_images/0709366215840.png
+370,38,Router 4G GA806s,4G industrial LTE VPN router,/media/part_images/17get.jpg
+371,151,Rullo per prato,Rullo per prato,/media/part_images/d85cff84361754ba40a69f3f4026e43a5514.jpg
+372,393,Ruote articolata 100 foro singolo, senza freno,Ruote articolata 100 foro singolo, senza freno,/media/part_images/Screenshot_2024-07-07_083259.png
+373,83,Rupes rh153a,Levigatrice rotoorbitale pneumatica,/media/part_images/get05.jpg
+374,82,Ryobi Brushless R18ddBL,Avvitatore,/media/part_images/get52.png
+375,120,Ryobi OGS1822,Tosaerba rifilatore e sfoltirami,/media/part_images/get26.jpg
+376,116,Ryobi R18ID3,Avvitatore ad impulsi,/media/part_images/get41.png
+377,119,Ryobi RY18BPSA-0,Pompa Irroratrice a Zaino 18V,/media/part_images/get43.png
+378,121,Ryobi RY18HT55A-0,Tagliasiepi,/media/part_images/get25.jpg
+379,118,Ryobi RY18PCA-0,Pulisci Fughe 18V,/media/part_images/get44.png
+380,117,Ryobi RY18SFX35A-240,Scarificatore / Arieggiatore,/media/part_images/get45.png
+381,288,Samsung A8 tablet Book Cover,,/media/part_images/Screenshot_2024-01-09_150100.png
+382,25,Samsung C43J890DKU (43", Dual FHD+),Monitor Samsung 43'' curved,/media/part_images/18get.jpg
+383,331,Samsung Galaxy Buds2 Pro,Samsung Galaxy Buds2 Pro ANC, 5 h, Wireless,/media/part_images/Screenshot_2024-04-26_175931.png
+384,39,Samsung Galaxy S22 Ultra,Cellulare,/media/part_images/samsung-galaxy-s22-ultra-burgundy.jpg
+385,60,Samsung Galaxy Tab A7 lite,Samsung Galaxy Tab A7 lite HA Ingresso,/media/part_images/Screenshot_2023-04-15_084850.jpg
+386,54,Samsung Galaxy Tab A8,Tablet per Homeassistant kiosk mode,/media/part_images/image_4521687986453262492.png
+387,329,Samsung Galaxy Tab A9+,Samsung Galaxy Tab A9+,/media/part_images/Screenshot_2024-04-26_134256.png
+388,383,Samsung HW-Q930D (540 W, 9.1.4 Channels),Samsung HW-Q930D (540 W, 9.1.4 Channels),/media/part_images/Screenshot_2024-07-05_163726.png
+389,374,Samsung Odyssey Neo G9 - G95NA,,/media/part_images/Capture.PNG
+390,215,Samsung Portable T7 Titan Grey (500 GB),Samsung Portable T7 Titan Grey (500 GB),/media/part_images/samsung.png
+391,231,Samsung SSD 980 500 GB, M.2 2280,Samsung SSD 980 500 GB, M.2 2280,/media/part_images/Web_capture_17-8-2023_183621_www.galaxus.ch.jpeg
+392,318,SanDisk ultra fit 32 GB,SanDisk ultra fit 32 GB, USB Type A, USB 3.1,/media/part_images/Screenshot_2024-03-27_093856.png
+393,125,SCM Minimax C30G,Combinata legno,/media/part_images/get28.jpg
+394,431,SCREW (2 PCS) HEATER FASCIA PANEL,Viti fissaggio mascherina ventilazione,/media/part_images/Screenshot_2024-09-14_073834.png
+395,44,Seasonic Prime PX Platinum (1300 W),PSU,/media/part_images/44get.png
+396,275,Sensore di prossimità induttivo PL-08N,Heschen - Interruttore a sensore di prossimità induttivo quadrato tipo PL-08N rilevatore distanza 8 mm 10-30 V DC 200 mA NPN normalmente aperto (NO) 3 fili,/media/part_images/51vjcDCR2AL._SX522_.jpg
+397,86,Shine mate ero600,Levigatrice Lucidatrice Rotoorbitale,/media/part_images/get09.jpg
+398,300,Siemens EQ900,Macchina caffé automatica,/media/part_images/Screenshot_2024-02-08_114908.png
+399,301,Siemens TZ70001,,/media/part_images/Screenshot_2024-02-08_115034.png
+400,407,Siemens TZ70033A (filtro acqua),Siemens TZ70033A (filtro acqua),/media/part_images/Screenshot_5-8-2024_11337_www.galaxus.ch.jpeg
+401,294,Silica Gel Reusable,1kg Silica Gel Beads Silicagel Moisture Absorber Indicating Reusable Desiccant Avoids Deterioration Silica Gel Desiccant,/media/part_images/Screenshot_2024-01-13_095812.png
+402,14,Simlab P1-X sim racing cockpit,Simulatore cockpit,/media/part_images/SLC007_P1-X_sim_racing_cockpit_Fanatec_DD_Yes.jpg
+403,379,Sim Shelf,The Sim Shelf lets you place your PC or other control boxes neatly on a 5 mm thick black-coated aluminum shelf.,/media/part_images/Screenshot_2024-07-05_081134.png
+404,271,SMA30LUU,Linear case unit for 30mm shaft,/media/part_images/Web_capture_23-12-2023_83332_www.aliexpress.com.jpeg
+405,449,SMA Male Plug to 3X SMA Female Jack Nut 1 in 3 Splitter,SMA Male Plug to 3X SMA Female Jack Nut 1 in 3 Splitter,/media/part_images/Screenshot_2024-09-22_080523.png
+406,173,SN7406N,HEX INVERTER BUFFERS/DRIVERS WITH OPEN-COLLECTOR HIGH-VOLTAGE OUTPUTS,/media/part_images/large_2.png
+407,174,SN7407N,HEX INVERTER BUFFERS/DRIVERS WITH OPEN-COLLECTOR HIGH-VOLTAGE OUTPUTS,/media/part_images/large_2.png
+408,175,SN74123N,IC MULTIVIBRATOR 22NS 16DIP,/media/part_images/6d88be_951c5367b05949e892320855e2168e8emv2.png
+409,680,SN74AHCT125,SN74AHCT125 SOIC-14 Quad Bus Buffer Gate Chip SMD,/media/part_images/Screenshot_2025-01-11_092758.png
+410,200,SN74LS00N,Quad 2-Input NAND Gate,/media/part_images/large_2.png
+411,201,SN74LS04N,HEX INVERTER,/media/part_images/large_2.png
+412,170,SN74LS14N,SN74LS14N DIP-14,/media/part_images/large_2.png
+413,177,SN74LS193N,IC BINARY COUNTER 4-BIT 16DIP,/media/part_images/6d88be_951c5367b05949e892320855e2168e8emv2.png
+414,172,SN74LS197,4-STAGE PRESETTABLE RIPPLE COUNTERS,/media/part_images/large_2.png
+415,176,SN74LS42N,4-LINE BCD TO 10-LINE DECIMAL DECODERS,/media/part_images/6d88be_951c5367b05949e892320855e2168e8emv2.png
+416,199,SN74LS86N,QUAD 2-INPUT EXCLUSIVE OR GATE,/media/part_images/large_2.png
+417,136,Solid State Relay 10A single phase Module 3-32V Input DC 24-380V AC Output High Quality SSR-10DA,Solid State Relay 10A single phase Module 3-32V Input DC 24-380V AC Output High Quality SSR-10DA,/media/part_images/Sf9649a1ca4cf4ac0b106b75955f24e30H.jpg
+418,384,Sonero Audio cable Toslink - Toslink 1 m,Sonero Audio cable Toslink - Toslink 1 m,/media/part_images/Screenshot_2024-07-05_164326.png
+419,394,Sonero HDMI (Typ A) — HDMI (Typ A) - 0.5mt,Sonero HDMI (Typ A) — HDMI (Typ A) - 0.5mt,/media/part_images/Screenshot_2024-07-12_071053.png
+420,395,Sonero HDMI (Typ A) — HDMI (Typ A) - 1mt,Sonero HDMI (Typ A) — HDMI (Typ A) - 1mt,/media/part_images/Screenshot_2024-07-12_071053.png
+421,307,SONOFF Adattatore ZBDongle - Zigbee,Gateway Zigbee USB3 Sonoff,/media/part_images/Screenshot_2024-03-22_072514.png
+422,229,Sonoff Camera GK-200MP2-B,,/media/part_images/Web_capture_17-8-2023_81322_www.brack.ch.jpeg
+423,228,Sonoff Slim Camera,,/media/part_images/Web_capture_17-8-2023_8813_www.brack.ch.jpeg
+424,306,Sonoff SNZB-02,Sonoff Sensore di temperatura e umidità ZigBee,/media/part_images/Screenshot_2024-03-21_080655.png
+425,68,Sparco R100,Sparco Seat for Racing simulation,/media/part_images/Screenshot_2023-04-15_182620.jpg
+426,382,Speaker mounting brackets (set),These speaker mounts let you mount your speakers onto an aluminium frame. The brackets are made for speakers with a M6 mounting hole, and sold as a set of 2 (lef and right version).,/media/part_images/Screenshot_2024-07-05_081332.png
+427,156,Spear & Jackson LEAFGRABBER,Spear & Jackson LEAFGRABBER - Pinza per raccogliere le foglie in plastica,/media/part_images/image_2104889799938428892.png
+428,677,SS24 2A 40V Diode,SS24 DO-214AA SMD Schottky Diode,/media/part_images/ss24-diode.jpg
+429,267,Stainless Steel Muffler Silencer,24mm Stainless Steel Muffler Silencer Upgraded Clamp Bracket Car Air Diesel Parking Heater Exhaust Pipe For Webasto Eberspacher,/media/part_images/Web_capture_14-12-2023_83855_www.aliexpress.com.jpeg
+430,126,Stanley DST 370/8/100-3 100 lt 3hp,Compressore silenziato,/media/part_images/get42.png
+431,84,Stayer sn1435b,Sega nastro per metalli,/media/part_images/9g8xa75kscudprur9jkomzql.jpg
+432,26,Stazione Dissaldante ZD-8915,Dissaldatore,/media/part_images/08get.jpg
+433,332,Steffen Adapter,Steffen Adapter,/media/part_images/Screenshot_2024-04-26_180350.png
+434,219,Step Down DC-DC Converter 5VDC,High Efficiency Output 3.3V 5V 9V 12V 5A mini560 Step Down DC-DC Converter Voltage Regulator Buck Stabilized Power Supply Module,/media/part_images/DCDC_0.png
+435,287,STEPPER Driver  DM556T 1,8-5,6A 20-50VDC,STEPPERONLINE Driver del motore passo-passo DM556T 1,8-5,6A 20-50VDC per motore Nema 23, 24 motori trapuntati CNC,/media/part_images/61I0stQG9kL._SX522_.jpg
+436,70,Stihl 018,Sega a catena,/media/part_images/get56.png
+437,243,Stihl 212,Sega a catena,/media/part_images/10919.jpg
+438,69,Stihl 462,Sega a catena,/media/part_images/get34.jpg
+439,399,STIHL Filo per falciatura QUADRATO 3mm X 53mt giallo,Decespugliatore FR460 TC-E > STIHL Filo per falciatura QUADRATO 3mm X 53mt giallo,/media/part_images/Screenshot_4-8-2024_8241_fllimanzoni.it.jpeg
+440,398,STIHL FR 460 TC-E,Decespugliatore spalleggiato,/media/part_images/Screenshot_4-8-2024_74247_newweb.lucacastellisa.ch.jpeg
+441,244,Stihl FSA 57,Decespugliatore a batteria,/media/part_images/11667.jpg
+442,127,Stihl GTA 26,Potatore,/media/part_images/get01.gif
+443,400,STIHL Leva per abbattimento piccola,STIHL Leva per abbattimento piccola,/media/part_images/Screenshot_4-8-2024_8634_newweb.lucacastellisa.ch.jpeg
+444,62,Sunlu S2,Filament Dryer,/media/part_images/Screenshot_2023-04-15_081354.jpg
+445,467,Synco Lube Super Lube,Synco Lube Super Lube,/media/part_images/Screenshot_2024-10-04_165802.png
+446,259,TELWIN Vantage Red XL Mascara MMA/MIG-MAG/TIG-802936,Casco per saldare,/media/part_images/912pBkwJ3L._AC_SX679_.jpg
+447,140,Terasic DE10-NANO CYCLONE V SE SOC KIT,FPGA Boart for MiSTer,/media/part_images/l5b81l39.png
+448,72,Tormek T8,Affilatrice,/media/part_images/get36.png
+449,279,Torx Head Screwdriver Bit Set,11PCS Torx Head Screwdriver Bit Set Magnetic 1/4" Hex Shank S2 Steel 3 Inch Long Drill Bits Security Torx Bits T6-T40 50/100mm,/media/part_images/Web_capture_6-1-2024_82431_www.aliexpress.com.jpeg
+450,158,Tubular terminal crimping tools HSC8 10SA/6-4,Tubular terminal crimping tools mini electrical pliers HSC8 10SA/6-4 0.25-10mm2 23-7AWG 6-6A 0.25-6mm2 high precision clamp set,/media/part_images/5vnutm1vp4cup7sb4e7491f6t.jpg
+451,330,Tucano Gala Folio Galaxy Tab A9+,,/media/part_images/Screenshot_2024-04-26_180006.png
+452,220,Tuya Door Camera Wifi,Topvico Tuya Door Camera Wifi Video Motion Detection Video-eye Viewer Wireless Intercom Home Security Protection Auto Record,/media/part_images/Screenshot_2023-08-04_095637.png
+453,10,TV LG 86NANO91TNA,Televisore LG 86 pollici,/media/part_images/27get.png
+454,15,TV LG LG70UJ675V,Televisore LG 70 pollici,/media/part_images/21get.jpg
+455,502,Ubiquiti Flex Mini,Ubiquiti Flex Mini,/media/part_images/Screenshot_2024-12-05_073804.png
+456,417,Ubiquiti Network cable 0.50 m,Ubiquiti UniFI - Patch Cable - LC Multi-Mode (M) to LC Multi-Mode (M) - 50 cm - Fiber - 50/125 micron - OM3,/media/part_images/Screenshot_31-8-2024_7593_www.galaxus.ch.jpeg
+457,412,Ubiquiti U7 Pro-Wall,Ubiquiti AP,/media/part_images/Screenshot_21-8-2024_92351_www.galaxus.ch.jpeg
+458,418,Ubiquiti UACC-DAC-SFP10-0.5M,Ubiquiti UACC-DAC-SFP10-0.5M,/media/part_images/Screenshot_31-8-2024_8123_www.galaxus.ch.jpeg
+459,416,Ubiquiti UACC-OM-MM-10G-D-2,Multimode duplex fibre optic transceiver module.,/media/part_images/Screenshot_31-8-2024_75524_www.galaxus.ch.jpeg
+460,468,Ubiquiti UACC-OM-SM-1G-S-2,Ubiquiti UACC-OM-SM-1G-S-2,/media/part_images/Screenshot_2024-10-04_173043.png
+461,421,Ubiquiti UF-RJ45-1G: SFP to RJ-45 module,Ubiquiti UF-RJ45-1G: SFP to RJ-45 module,/media/part_images/Screenshot_31-8-2024_81025_www.galaxus.ch.jpeg
+462,419,Ubiquiti UK-Ultra Swiss Army Knife Ultra,Ubiquiti UK-Ultra Swiss Army Knife Ultra,/media/part_images/Screenshot_31-8-2024_8737_www.galaxus.ch.jpeg
+463,415,Ubiquiti UniFi Dream Machine Pro,Ubiquiti UniFi Dream Machine Pro,/media/part_images/Screenshot_31-8-2024_75116_www.digitec.ch.jpeg
+464,414,Ubiquiti Unifi Switch 24 Poe,Ubiquiti Unifi Switch 24 Poe,/media/part_images/Screenshot_2024-08-29_094908.png
+465,420,Ubiquiti UniFi USW-PRO-8-POE,Ubiquiti UniFi USW-PRO-8-POE,/media/part_images/Screenshot_31-8-2024_8858_www.galaxus.ch.jpeg
+466,413,Ubiquiti U-POE-AT,,/media/part_images/Screenshot_21-8-2024_92641_www.galaxus.ch.jpeg
+467,268,Ultra-low Noise Heater Fuel Pump,12V/24V 1KW-5KW Car Upgrade Ultra-low Noise Heater Fuel Pump For Eberspacher Universal Car Air Diesel Parking Oil Pump For Truck,/media/part_images/Web_capture_14-12-2023_84029_www.aliexpress.com.jpeg
+468,500,Ultra Thin LED Power Supply AC1240V to DC12V 150WTransformer Adapter Driver FCOB WS2815 Light Strip,Ultra Thin LED Power Supply AC1240V to DC12V 150WTransformer Adapter Driver FCOB WS2815 Light Strip,/media/part_images/Screenshot_2024-11-27_105632.png
+469,31,Uperfect Monitor 11.6,Monitor 11.6'',/media/part_images/07get.jpg
+470,216,USB Cable Type A > Type B (grey),USB Cable Type A > Type B (grey),/media/part_images/cavo.png
+471,359,USB-C tester POWER-Z KM003C,POWER-Z KM003C USB-C PD Tester Voltmeter PD3.1 QC5.0 Charger Voltage Current Ripple Dual Volt Meter Power Bank Detector,/media/part_images/Screenshot_2024-05-26_085230.png
+472,492,USB Logic Analyzer 24MHz 8 Channel 24M,USB Logic Analyzer 24MHz 8 Channel 24M,/media/part_images/Screenshot_2024-11-27_095914.png
+473,351,UV sterilizer 16w,2Gpm Flow Switch Ultraviolet Water Filter for Household Water Sterilization,/media/part_images/Screenshot_2024-05-22_072407.png
+474,37,Vasca Ultrasuoni 10l,Professionale Digitale Pulitore ad Ultrasuoni da DKSONIC 10L,/media/part_images/10get.jpg
+475,261,VEVOR Riscaldatore d'Aria Diesel All-in-One,Riscaldatore Vevor 8KW,/media/part_images/Web_capture_12-12-2023_9351_www.vevor.it.jpeg
+476,168,VGA to RGBHV Component 5x BNC Breakout Video Adapter Cable,VGA to component 5x BNC,/media/part_images/Hd1cb6cba90444936bb61115490596d60K.jpg
+477,341,Vite Legno TT Torx 3.5mm x 10mm,Stainless Steel Torx Hexalobular Socket Round Head Tapping Screws Pan Head Six-Lobe Wood Screw,/media/part_images/Screenshot_2024-05-18_085401.png
+478,342,Vite Legno TT Torx 3.5mm x 12mm,Stainless Steel Torx Hexalobular Socket Round Head Tapping Screws Pan Head Six-Lobe Wood Screw,/media/part_images/Screenshot_2024-05-18_085401.png
+479,340,Vite Legno TT Torx 3.5mm x 8mm,Stainless Steel Torx Hexalobular Socket Round Head Tapping Screws Pan Head Six-Lobe Wood Screw,/media/part_images/Screenshot_2024-05-18_085401.png
+480,110,Voiern WER-6040,Laser CO2,/media/part_images/get46.png
+481,181,W65C22N,W65C22N - Replacement for MOS 6522 VIA,/media/part_images/r65c02p3-ic-dip-40.jpg
+482,112,Wagner W610,Sistema verniciatura,/media/part_images/get23.jpg
+483,239,WD Black SN850X 2TB,SSD per NUC 11,/media/part_images/Web_capture_7-9-2023_92157_www.digitec.ch.jpeg
+484,299,WD Red 3TB,NAS HDD,/media/part_images/5a88128c-08e3-475e-8632-bad962dbd09a_cropped.jpg
+485,238,WD Red Plus 8TB,Dischi per NAS,/media/part_images/Web_capture_7-9-2023_9217_www.digitec.ch.jpeg
+486,29,Weber  Genesis® II SP-435 GBS,Genesis® II SP-435 GBS,/media/part_images/22get.jpg
+487,30,Weber iGrill 3,Weber iGrill 3,/media/part_images/09get.jpg
+488,305,Weller Erem tappeto antistatico ESD Premium,Weller Erem Set di tappetini antistatici ESD Premium da tavolo per saldatura con braccialetto e cavo a spirale,/media/part_images/Screenshot_2024-03-04_173904.png
+489,424,WHEEL NUT ALUMINIUM WHEEL HIGH GLOSS CHROMED, LEFT HAND THREAD,Dadi fissaggio cerchi in lega,/media/part_images/Screenshot_2024-09-13_095805.png
+490,425,WHEEL NUT ALUMINIUM WHEEL HIGH GLOSS CHROMED, RIGHT HAND THREAD,Dadi fissaggio cerchi in lega,/media/part_images/Screenshot_2024-09-13_095805_LU8skfL.png
+491,369,WiFi module for Balboa BP control system,WiFi module for Balboa BP control system,/media/part_images/Screenshot_2024-06-09_121247.png
+492,462,Witrue Camera Lens CCTV HD 5MP M12 1.8mm Fisheye,Witrue Camera Lens CCTV HD 5MP Fisheye 1.8mm M12 180 degree Wide Viewing Angle F2.0 1/2.5" For Surveillance Security Cameras,/media/part_images/Screenshot_2024-10-04_161713.png
+493,459,Witrue CCTV Camera Lens 5 Mega Pixel M12 X P0.5 Mount 1/2.5" F2.0 12MM,Witrue CCTV Camera Lens 5 Mega Pixel M12 X P0.5 Mount 1/2.5" F2.0 12MM,/media/part_images/Screenshot_2024-10-04_160904.png
+494,460,Witrue CCTV Camera Lens 5 Mega Pixel M12 X P0.5 Mount 1/2.5" F2.0 16MM,Witrue CCTV Camera Lens 5 Mega Pixel M12 X P0.5 Mount 1/2.5" F2.0 16MM,/media/part_images/Screenshot_2024-10-04_160909.png
+495,461,Witrue CCTV Camera Lens 5 Mega Pixel M12 X P0.5 Mount 1/2.5" F2.0 25MM,Witrue CCTV Camera Lens 5 Mega Pixel M12 X P0.5 Mount 1/2.5" F2.0 25MM,/media/part_images/Screenshot_2024-10-04_160916.png
+496,107,WM-08 Polifusore tubi PPR,WM-08 Polifusore tubi PPR,/media/part_images/get39.png
+497,23,WMF Küchenminis Snack-to-go,WMF Küchenminis disidratatore Snack,/media/part_images/25get.jpg
+498,153,W-new T-square Precision Marking Ruler,W-new T-square Precision Marking Ruler, T-Rule, Fine Woodworking,/media/part_images/t_line.PNG
+499,124,Wolf Garden 7084889,Tosaerba rifilatore,/media/part_images/get29.jpg
+500,152,woodworking chamfer planer,woodworking chamfer planer,/media/part_images/edge_planer.PNG
+501,225,Xiaomi water sensor,Xiaomi Aqara IP67 Water Immersing Sensor Zigbee Flood Water Leak Detector Alarm Security Soaking Sensor For Mi Home Homekit,/media/part_images/Web_capture_14-8-2023_12548_www.aliexpress.com.jpeg
+502,222,XY-WFMS ESP-12F WIFI Remote Controller Module 5V-36V Dimmerable Output,ESP-12F WIFI Remote Controller Module 5V-36V Dimmerable Output,/media/part_images/_00dimmer.png
+503,223,XY-WFUSB WIFI-USB mobile phone remote controller 5A 100W,XY-WFUSB WIFI-USB mobile phone remote controller 5A 100W,/media/part_images/usb_00.png
+504,495,YHDC Split Core Current Transformer SCT006 Rated Input 20A Output 25mA,YHDC Split Core Current Transformer SCT006 Rated Input 20A Output 25mA,/media/part_images/Screenshot_2024-11-27_102200.png
+505,34,YIHUA 853A ESD BGA Rework Station,Rework Station Digital IR Preheat Station Soldering Station PCB Desoldering 220V,/media/part_images/19get.jpg
+506,35,YIHUA 995D+SMD Soldering Station,Soldering Station With Pluggable Hot Air Gun Soldering iron BGA Rework Station Phone Repair Welding Station,/media/part_images/20get.jpg
+507,282,YX20 Hole type - MF,YX20 Aviation plug, Hole type (maschio e femmina) fori sul maschio,/media/part_images/Web_capture_6-1-2024_85837_www.aliexpress.com.jpeg
+508,283,YX20 Needle type - MF,YX20 Aviation plug, Needle type (maschio e femmina) fori sulla femmina,/media/part_images/Web_capture_6-1-2024_9046_www.aliexpress.com.jpeg
+509,350,Zigbee soil moisture, temperature and humidity meter,Tuya Zigbee Wireless Soil Moisture Meter Temperature Humidity Tester APP Real Time Monitor IP67 Waterproof Detector For Garden,/media/part_images/Screenshot_2024-05-22_071224.png
+510,422,Zyxel PM7300-TO,Bridge FO per internet Ticinocom,/media/part_images/img_pm7300-t0_p_01.png
