@@ -93,8 +93,9 @@ def check_naming_convention(part_name, api_url, headers):
     check1 = parts[0] == 'R'
     
     # Check 2: The second segment should be a valid resistance value
-    resistance_units = ['k', 'M', 'R', 'm']
-    check2 = any(unit in parts[1] for unit in resistance_units) or parts[1].isdigit()
+    resistance_pattern = re.compile(r'^\d+(\.\d+)?(ROhm|kOhm|MOhm|mOhm)$')
+    second_segment = parts[1]
+    check2 = bool(resistance_pattern.match(second_segment))
     logging.info(f"Check 2 result: {check2}")
 
     # Check 3: The third segment should be a valid resistor type

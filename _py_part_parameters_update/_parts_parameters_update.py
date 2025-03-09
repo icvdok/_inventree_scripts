@@ -75,26 +75,6 @@ def get_current_parameters(part_pk):
         logger.error(f"Failed to retrieve current parameters for part {part_pk}: {response.status_code} - {response.text}")
         return None
 
-# def create_csv(parameters, parts):
-#     parameter_template_names = [
-#         f"{param['parameter_template_detail']['name']}%{param['parameter_template']}%{param['parameter_template_detail'].get('selectionlist', 'False') or 'False'}%{param['parameter_template_detail'].get('checkbox', False)}"
-#         for param in parameters
-#     ]
-#     header_row = ['part name', 'part pk'] + parameter_template_names
-#     with open('parameters.csv', mode='w', newline='') as file:
-#         writer = csv.writer(file)
-#         writer.writerow(header_row)
-#         logger.info(f"CSV header row: {header_row}")
-#         for part in parts:
-#             row = [part['part name'], part['part pk']]
-#             current_parameters = get_current_parameters(part['part pk'])
-#             if current_parameters:
-#                 for param in parameters:
-#                     param_value = next((p['data'] for p in current_parameters if p['template'] == param['parameter_template']), '')
-#                     row.append(param_value)
-#             writer.writerow(row)
-#             logger.info(f"CSV row for part {part['part pk']}: {row}")
-
 def create_csv(parameters, parts, category_pk):
     parameter_template_names = [
         f"{param['parameter_template_detail']['name']}%{param['parameter_template']}%{param['parameter_template_detail'].get('selectionlist', 'False') or 'False'}%{param['parameter_template_detail'].get('checkbox', False)}"

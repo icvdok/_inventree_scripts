@@ -1,0 +1,63 @@
+part name,part pk,electronic_mounting%51%17%False,electronic_voltage%16%False%False,electronic_cap_polarized%14%False%True,Part of Kit%22%False%True,electronic_cap_capacitance%12%False%False,electronic_package%11%15%False,electronic_size%52%False%False,electronic_code%15%False%False,electronic_cap_type%50%16%False
+C_0.15uF_50V_cmsv_th,1420,th,50,False,True,0.15uF,RAD,(diameterxheight) or (lenghtxwidthxheight),electronic_code_placeholder,cmsv
+C_0.1uF_50V_cmsv_th,1419,th,50,False,True,0.1uF,RAD,(diameterxheight) or (lenghtxwidthxheight),electronic_code_placeholder,cmsv
+C_0.1uF_50V_essv_th,1402,th,50,True,True,0.1uF,RAD,(diameterxheight) or (lenghtxwidthxheight),electronic_code_placeholder,essv
+C_0.22uF_50V_cmsv_th,1421,th,50,False,True,0.22uF,RAD,(diameterxheight) or (lenghtxwidthxheight),electronic_code_placeholder,cmsv
+C_0.22uF_50V_essv_th,1403,th,50,True,True,0.22uF,RAD,(diameterxheight) or (lenghtxwidthxheight),electronic_code_placeholder,essv
+C_0.33uF_50V_cmsv_th,1422,th,50,False,True,0.33uF,RAD,(diameterxheight) or (lenghtxwidthxheight),electronic_code_placeholder,cmsv
+C_0.47uF_50V_cmsv_th,1423,th,50,False,True,0.47uF,RAD,(diameterxheight) or (lenghtxwidthxheight),electronic_code_placeholder,cmsv
+C_0.47uF_50V_essv_th,1404,th,50,True,True,0.47uF,RAD,(diameterxheight) or (lenghtxwidthxheight),electronic_code_placeholder,essv
+C_0.68uF_50V_cmsv_th,1424,th,50,False,True,0.68uF,RAD,(diameterxheight) or (lenghtxwidthxheight),electronic_code_placeholder,cmsv
+C_100000pF_50V_cssv_th,1487,th,50,False,True,100000pF,CD,(diameterxheight) or (lenghtxwidthxheight),electronic_code_placeholder,cssv
+C_10000pF_50V_cssv_th,1483,th,50,False,True,10000pF,CD,(diameterxheight) or (lenghtxwidthxheight),electronic_code_placeholder,cssv
+C_1000pF_50V_cssv_th,1477,th,50,False,True,1000pF,CD,(diameterxheight) or (lenghtxwidthxheight),electronic_code_placeholder,cssv
+C_1000uF_35V_essv_th,184,th,35,True,True,1000uF,RAD,(diameterxheight) or (lenghtxwidthxheight),Aluminium Electrolytic Capacitors - Radial Leaded,essv
+C_100nF_50V_cmsh_sm,192,sm,50,False,True,100nF,SMD_805,(diameterxheight) or (lenghtxwidthxheight),0805 SMD Chip Multilayer Ceramic Capacitor,cmsh
+C_100nF_50V_cmsv_th,1061,th,50,False,True,100nF,CD,(diameterxheight) or (lenghtxwidthxheight),electronic_code_placeholder,cmsv
+C_100pF_50V_cssv_th,1472,th,50,False,True,100pF,CD,(diameterxheight) or (lenghtxwidthxheight),electronic_code_placeholder,cssv
+C_100uF_16V_essv_th,1414,th,16,True,True,100uF,RAD,(diameterxheight) or (lenghtxwidthxheight),electronic_code_placeholder,essv
+C_100uF_25V_essv_th,1413,th,25,True,True,100uF,RAD,(diameterxheight) or (lenghtxwidthxheight),electronic_code_placeholder,essv
+C_10pF_50V_cssv_th,1466,th,50,False,True,10pF,CD,(diameterxheight) or (lenghtxwidthxheight),electronic_code_placeholder,cssv
+C_10uF_10V_etsv_th,932,th,10,True,True,10uF,SMD_1206,(diameterxheight) or (lenghtxwidthxheight),Type A 10V10UF 106A 3216 SMD Tantalum Capacitor 106A Tantalum Electrolytic Capacitor,etsv
+C_10uF_16V_cmsh_sm,678,sm,16,False,True,10uF,SMD_805,(diameterxheight) or (lenghtxwidthxheight),electronic_code_placeholder,cmsh
+C_10uF_25V_essv_th,1409,th,25,True,True,10uF,RAD,(diameterxheight) or (lenghtxwidthxheight),electronic_code_placeholder,essv
+C_10uF_50V_cmsv_th,1428,th,50,False,True,10uF,RAD,(diameterxheight) or (lenghtxwidthxheight),electronic_code_placeholder,cmsv
+C_1500pF_50V_cssv_th,1478,th,50,False,True,1500pF,CD,(diameterxheight) or (lenghtxwidthxheight),electronic_code_placeholder,cssv
+C_1500uF_16V_escv_th,1103,th,16,True,True,1500uF,RAD,(diameterxheight) or (lenghtxwidthxheight),electronic_code_placeholder,escv
+C_1500uF_16V_essv_th,189,th,16,True,True,1500uF,RAD,(diameterxheight) or (lenghtxwidthxheight),10mm free height: 1x 16v 1500uF capacitor,essv
+C_1uF_25V_cmsh_sm,679,sm,25,False,True,1uF,SMD_805,(diameterxheight) or (lenghtxwidthxheight),electronic_code_placeholder,cmsh
+C_1uF_50V_cmsv_th,1425,th,50,False,True,1uF,RAD,(diameterxheight) or (lenghtxwidthxheight),electronic_code_placeholder,cmsv
+C_1uF_50V_essv_th,1405,th,50,True,True,1uF,RAD,(diameterxheight) or (lenghtxwidthxheight),electronic_code_placeholder,essv
+C_22000pF_50V_cssv_th,1484,th,50,False,True,22000pF,CD,(diameterxheight) or (lenghtxwidthxheight),electronic_code_placeholder,cssv
+C_2200pF_50V_cssv_th,1479,th,50,False,True,2200pF,CD,(diameterxheight) or (lenghtxwidthxheight),electronic_code_placeholder,cssv
+C_2200uF_16V_essv_th,193,th,16,True,True,2200uF,RAD,(diameterxheight) or (lenghtxwidthxheight),Aluminium Electrolytic Capacitors - Radial Leaded,essv
+C_220uF_10V_essv_th,1415,th,10,True,True,220uF,RAD,(diameterxheight) or (lenghtxwidthxheight),electronic_code_placeholder,essv
+C_22pF_50V_cssv_th,1467,th,50,False,True,22pF,CD,(diameterxheight) or (lenghtxwidthxheight),electronic_code_placeholder,cssv
+C_22uF_25V_essv_th,1410,th,25,True,True,22uF,RAD,(diameterxheight) or (lenghtxwidthxheight),electronic_code_placeholder,essv
+C_22uF_400V_essv_th,195,th,40,True,True,22uF,RAD,(diameterxheight) or (lenghtxwidthxheight),Aluminium Electrolytic Capacitors - Radial Leaded,essv
+C_2.2uF_50V_cmsv_th,1426,th,50,False,True,2.2uF,RAD,(diameterxheight) or (lenghtxwidthxheight),electronic_code_placeholder,cmsv
+C_2.2uF_50V_essv_th,1406,th,50,True,True,2.2uF,RAD,(diameterxheight) or (lenghtxwidthxheight),electronic_code_placeholder,essv
+C_230pF_50V_cssv_th,1473,th,50,False,True,230pF,CD,(diameterxheight) or (lenghtxwidthxheight),electronic_code_placeholder,cssv
+C_270uF_16V_essv_th,188,th,16,True,True,270uF,RAD,(diameterxheight) or (lenghtxwidthxheight),270uF 16V NCC PSF series 8x8mm Super Low ESR,essv
+C_2pF_50V_cssv_th,1464,th,50,False,True,2pF,CD,(diameterxheight) or (lenghtxwidthxheight),electronic_code_placeholder,cssv
+C_30pF_50V_cssv_th,1468,th,50,False,True,30pF,CD,(diameterxheight) or (lenghtxwidthxheight),electronic_code_placeholder,cssv
+C_3300pF_50V_cssv_th,1480,th,50,False,True,3300pF,CD,(diameterxheight) or (lenghtxwidthxheight),electronic_code_placeholder,cssv
+C_3300uF_16V_essv_th,194,th,16,True,True,3300uF,RAD,(diameterxheight) or (lenghtxwidthxheight),Aluminium Electrolytic Capacitors - Radial Leaded,essv
+C_330pF_50V_cssv_th,1474,th,50,False,True,330pF,CD,(diameterxheight) or (lenghtxwidthxheight),electronic_code_placeholder,cssv
+C_33pF_50V_cssv_th,1469,th,50,False,True,33pF,CD,(diameterxheight) or (lenghtxwidthxheight),electronic_code_placeholder,cssv
+C_33uF_16V_essv_th,1411,th,16,True,True,33uF,RAD,(diameterxheight) or (lenghtxwidthxheight),electronic_code_placeholder,essv
+C_3.3uF_50V_essv_th,1407,th,50,True,True,3.3uF,RAD,(diameterxheight) or (lenghtxwidthxheight),electronic_code_placeholder,essv
+C_47000pF_50V_cssv_th,1485,th,50,False,True,47000pF,CD,(diameterxheight) or (lenghtxwidthxheight),electronic_code_placeholder,cssv
+C_4700pF_50V_cssv_th,1481,th,50,False,True,4700pF,CD,(diameterxheight) or (lenghtxwidthxheight),electronic_code_placeholder,cssv
+C_470pF_50V_cssv_th,1475,th,50,False,True,470pF,CD,(diameterxheight) or (lenghtxwidthxheight),electronic_code_placeholder,cssv
+C_47pF_50V_cssv_th,1470,th,50,False,True,47pF,CD,(diameterxheight) or (lenghtxwidthxheight),electronic_code_placeholder,cssv
+C_47uF_16V_essv_th,1412,th,16,True,True,47uF,RAD,(diameterxheight) or (lenghtxwidthxheight),electronic_code_placeholder,essv
+C_47uF_25V_escv_th,186,th,25,True,True,47uF,RAD,(diameterxheight) or (lenghtxwidthxheight),25ML47MEFC6.3X5,escv
+C_47uF_25V_essv_th,1416,th,25,True,True,47uF,RAD,(diameterxheight) or (lenghtxwidthxheight),electronic_code_placeholder,essv
+C_4.7uF_50V_cmsv_th,1427,th,50,False,True,4.7uF,RAD,(diameterxheight) or (lenghtxwidthxheight),electronic_code_placeholder,cmsv
+C_4.7uF_50V_essv_th,1408,th,50,True,True,4.7uF,RAD,(diameterxheight) or (lenghtxwidthxheight),electronic_code_placeholder,essv
+C_5pF_50V_cssv_th,1465,th,50,False,True,5pF,CD,(diameterxheight) or (lenghtxwidthxheight),electronic_code_placeholder,cssv
+C_68000pF_50V_cssv_th,1486,th,50,False,True,68000pF,CD,(diameterxheight) or (lenghtxwidthxheight),electronic_code_placeholder,cssv
+C_6800pF_50V_cssv_th,1482,th,50,False,True,6800pF,CD,(diameterxheight) or (lenghtxwidthxheight),electronic_code_placeholder,cssv
+C_680pF_50V_cssv_th,1476,th,50,False,True,680pF,CD,(diameterxheight) or (lenghtxwidthxheight),electronic_code_placeholder,cssv
+C_68pF_50V_cssv_th,1471,th,50,False,True,68pF,CD,(diameterxheight) or (lenghtxwidthxheight),electronic_code_placeholder,cssv
