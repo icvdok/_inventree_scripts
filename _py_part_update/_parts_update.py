@@ -27,7 +27,7 @@ api = InvenTreeAPI(url, token=token)
 part_fields = [
     'pk', 'name', 'description', 'active', 'assembly', 'component', 'purchaseable', 
     'notes', 'minimum_stock', 'parameters', 'attachments', 
-    'image', 'supplier_pk', 'supplier_part_number', 'supplier_link', 
+    'existing_image', 'supplier_pk', 'supplier_part_number', 'supplier_link', 
     'supplier_pack_quantity'
 ]
 
@@ -86,9 +86,6 @@ def update_part_information(part, part_data):
     """
     try:
         update_data = {field: part_data[field] for field in part_fields if field in part_data}
-        # Keep the full path for the image field
-        if 'image' in update_data:
-            update_data['existing_image'] = update_data.pop('image')
         part.save(update_data)
         logging.info(f"Updated part: {part.name} - {part.pk}")
         return part
