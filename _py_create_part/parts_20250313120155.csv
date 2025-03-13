@@ -1,6 +1,0 @@
-name,description,category,active,assembly,component,purchaseable,notes,minimum_stock,parameters,attachments,existing_image,supplier_pk,supplier_part_number,supplier_link,supplier_pack_quantity
-dado-M3x5x4.2-ip-ot,dado-M3x5x4.2-ip-ot,200,TRUE,FALSE,TRUE,TRUE,brass insert kit 930 pcs,1,TRUE,,brass_insert.png,24,2,https://www.aliexpress.com/item/1005005511428418.html,100
-dado-M3x5x4.5-ip-ot,dado-M3x5x4.5-ip-ot,200,TRUE,FALSE,TRUE,TRUE,brass insert kit 930 pcs,1,TRUE,,brass_insert.png,24,2,https://www.aliexpress.com/item/1005005511428418.html,100
-dado-M3x6x4.2-ip-ot,dado-M3x6x4.2-ip-ot,200,TRUE,FALSE,TRUE,TRUE,brass insert kit 930 pcs,1,TRUE,,brass_insert.png,24,2,https://www.aliexpress.com/item/1005005511428418.html,100
-dado-M3x7x5-ip-ot,dado-M3x7x5-ip-ot,200,TRUE,FALSE,TRUE,TRUE,brass insert kit 930 pcs,1,TRUE,,brass_insert.png,24,2,https://www.aliexpress.com/item/1005005511428418.html,100
-dado-M3x8x5-ip-ot,dado-M3x8x5-ip-ot,200,TRUE,FALSE,TRUE,TRUE,brass insert kit 930 pcs,1,TRUE,,brass_insert.png,24,2,https://www.aliexpress.com/item/1005005511428418.html,100

@@ -1,7 +1,0 @@
-part name,part pk,electronic_mounting%51%17%False,electronic_code%15%False%False,Part of Kit%22%False%True,electronic_package%11%15%False,electronic_resistance%21%False%False
-R_10ROhm_AXIAL_th,1505,th,R_10ROhm_AXIAL_th,TRUE,AXIAL,10R
-R_220ROhm_AXIAL_th,1508,th,R_220ROhm_AXIAL_th,TRUE,AXIAL,220R
-R_470ROhm_AXIAL_th,1509,th,R_470ROhm_AXIAL_th,TRUE,AXIAL,470R
-R_47ROhm_AXIAL_th,1506,th,R_47ROhm_AXIAL_th,TRUE,AXIAL,47R
-R_680ROhm_AXIAL_th,1510,th,R_680ROhm_AXIAL_th,TRUE,AXIAL,680R
-R_68ROhm_AXIAL_th,1507,th,R_68ROhm_AXIAL_th,TRUE,AXIAL,68R
